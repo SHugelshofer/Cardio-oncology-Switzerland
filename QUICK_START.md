@@ -41,12 +41,27 @@ grant_application/
 └── sources_statistiques_tableau.docx (39 KB)
 ```
 
-### 🎯 What to Do Next
+### 📖 How to Open Your Word Documents
 
-1. Open the Word documents in Microsoft Word, LibreOffice, or Google Docs
-2. Print the support letter on official CHUV letterhead
-3. Review and adjust formatting if needed
-4. Submit to Fondation Emma Muschamp
+**Simple method:**
+1. Navigate to the `grant_application/` folder on your computer
+2. Double-click any `.docx` file
+3. It will open in Microsoft Word, LibreOffice, or your default word processor
+
+**Don't have Word?** No problem! You have 3 options:
+- **LibreOffice** (free): Download from https://www.libreoffice.org
+- **Google Docs** (online): Upload files to Google Drive and open online
+- **Other programs**: WPS Office, OnlyOffice, or Apple Pages all work
+
+**Need detailed help opening documents?** See [HOW_TO_OPEN_DOCUMENTS.md](HOW_TO_OPEN_DOCUMENTS.md) for step-by-step instructions for each platform.
+
+### 🎯 What to Do After Opening
+
+1. Review the content and formatting
+2. Edit documents if needed (especially the support letter)
+3. Print the support letter on official CHUV letterhead
+4. Get Prof. Müller's signature
+5. Submit to Fondation Emma Muschamp
 
 ### 🔄 Updating Documents
 
@@ -58,9 +73,10 @@ If you need to make changes:
 
 ### 📖 More Information
 
-- Full documentation: [CONVERTING_TO_WORD.md](CONVERTING_TO_WORD.md)
-- Grant info: [grant_application/README.md](grant_application/README.md)
-- Command help: `python3 convert_to_word.py --help`
+- **Opening documents:** [HOW_TO_OPEN_DOCUMENTS.md](HOW_TO_OPEN_DOCUMENTS.md) - Detailed instructions for opening .docx files
+- **Full documentation:** [CONVERTING_TO_WORD.md](CONVERTING_TO_WORD.md) - Complete conversion guide
+- **Grant info:** [grant_application/README.md](grant_application/README.md) - Grant application details
+- **Command help:** `python3 convert_to_word.py --help` - All command options
 
 ---
 
