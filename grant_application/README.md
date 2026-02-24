@@ -4,16 +4,38 @@ This directory contains materials for grant applications related to the CVRF-CAR
 
 ## Contents
 
-### Project Documentation
+### Project Documentation (Markdown & Word formats)
 
-- **resume_projet.md** - Comprehensive project summary including background, methodology, expected outcomes, and budget details
-- **references_epidemiologie.md** - Scientific references and sources for cardiovascular risk factor prevalence statistics
-- **demographics_age_cancer.md** - Detailed age and cancer type distribution from cited studies
-- **sources_statistiques_tableau.md** - Quick-reference table mapping statistics to sources
+- **resume_projet.md / .docx** - Comprehensive project summary including background, methodology, expected outcomes, and budget details
+- **budget_detaille.md / .docx** - Detailed budget breakdown for the CHF 50,000 grant application
+- **references_epidemiologie.md / .docx** - Scientific references and sources for cardiovascular risk factor prevalence statistics
+- **demographics_age_cancer.md / .docx** - Detailed age and cancer type distribution from cited studies
+- **sources_statistiques_tableau.md / .docx** - Quick-reference table mapping statistics to sources
 
 ### Support Letters
 
-- **lettre_soutien_Prof_Muller.md** - Professional support letter from Prof. Olivier Müller (Chef du Service de Cardiologie, CHUV) for the CHF 50,000 grant application to Fondation Emma Muschamp
+- **lettre_soutien_Prof_Muller.md / .docx** - Professional support letter from Prof. Olivier Müller (Chef du Service de Cardiologie, CHUV) for the CHF 50,000 grant application to Fondation Emma Muschamp
+
+### Converting to Word Format
+
+All markdown files can be converted to Microsoft Word (.docx) format using the conversion script:
+
+```bash
+# Convert all documents at once
+python3 ../convert_to_word.py --all
+
+# Convert specific documents
+python3 ../convert_to_word.py grant_application/resume_projet.md grant_application/budget_detaille.md
+
+# Convert to a specific output directory
+python3 ../convert_to_word.py --all --output-dir ./word_documents
+```
+
+**Note:** Word documents (.docx) are automatically generated and are ideal for:
+- Submission to grant committees (Fondation Emma Muschamp)
+- Printing on official CHUV letterhead
+- Editing and formatting by committee members
+- Distribution to collaborators
 
 ## Usage Instructions
 
