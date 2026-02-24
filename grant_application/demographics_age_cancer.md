@@ -338,7 +338,7 @@ Ces caractéristiques valident l'utilisation des fourchettes de prévalence cit�
 
 ---
 
-**Document préparé par:** Dr Stefan Hugelshofer, Service de Cardiologie, CHUV  
+**Document préparé par:** Dr Sarah Hugelshofer, Service de Cardiologie, CHUV  
 **Date:** 24 février 2026  
 **Version:** 1.0  
 

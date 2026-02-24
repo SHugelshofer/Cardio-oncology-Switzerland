@@ -3,7 +3,7 @@
 Repository for grant application materials to **Fondation Emma Muschamp** (CHF 50,000 request).
 
 **Project:** Cardiovascular Risk Factors and Cardioprotective Medications in Cardio-Oncology  
-**Principal Investigator:** Dr. Stefan Hugelshofer, CHUV
+**Principal Investigator:** Dr. Sarah Hugelshofer, CHUV
 
 ---
 

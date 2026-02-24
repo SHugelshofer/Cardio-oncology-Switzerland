@@ -16,25 +16,25 @@ Lausanne, le 13 février 2026
 **Fondation Emma Muschamp**  
 À l'attention du Comité de sélection
 
-**Objet: Lettre de soutien pour la demande de subvention de CHF 50'000 – Dr Stefan Hugelshofer**
+**Objet: Lettre de soutien pour la demande de subvention de CHF 50'000 – Dr Sarah Hugelshofer**
 
 Mesdames, Messieurs, Chers Membres du Comité,
 
-C'est avec un grand enthousiasme et une conviction profonde que je vous adresse cette lettre de soutien en faveur de la candidature du Dr Stefan Hugelshofer pour l'obtention d'une subvention de CHF 50'000 auprès de la Fondation Emma Muschamp. Cette demande concerne le projet de recherche **CVRF-CARDIO-PROTECT** (Cardiovascular Risk Factors and Cardioprotective Medications in Cardio-Oncology), un projet d'une importance scientifique et clinique majeure dans le domaine émergent de la cardio-oncologie.
+C'est avec un grand enthousiasme et une conviction profonde que je vous adresse cette lettre de soutien en faveur de la candidature du Dr Sarah Hugelshofer pour l'obtention d'une subvention de CHF 50'000 auprès de la Fondation Emma Muschamp. Cette demande concerne le projet de recherche **CVRF-CARDIO-PROTECT** (Cardiovascular Risk Factors and Cardioprotective Medications in Cardio-Oncology), un projet d'une importance scientifique et clinique majeure dans le domaine émergent de la cardio-oncologie.
 
 ## Excellence scientifique et innovation du projet
 
 Le projet CVRF-CARDIO-PROTECT s'inscrit dans un contexte où la cardio-oncologie représente un enjeu de santé publique croissant. Avec l'amélioration continue des traitements oncologiques et l'augmentation de la survie des patients atteints de cancer, les complications cardiovasculaires des thérapies anticancéreuses constituent désormais une préoccupation majeure. Ce projet vise à identifier les facteurs de risque cardiovasculaires et à évaluer l'efficacité des stratégies cardioprotectrices chez les patients oncologiques, une problématique qui reste insuffisamment explorée dans la littérature scientifique actuelle.
 
-L'approche méthodologique proposée par le Dr Hugelshofer est rigoureuse et novatrice. Elle combine une analyse rétrospective approfondie de nos données cliniques avec une perspective prospective, permettant ainsi de générer des données robustes et immédiatement applicables à la pratique clinique. Le projet a le potentiel de produire des résultats qui pourront directement améliorer la prise en charge des patients et influencer les recommandations internationales en cardio-oncologie.
+L'approche méthodologique proposée par la Dre Hugelshofer est rigoureuse et novatrice. Elle combine une analyse rétrospective approfondie de nos données cliniques avec une perspective prospective, permettant ainsi de générer des données robustes et immédiatement applicables à la pratique clinique. Le projet a le potentiel de produire des résultats qui pourront directement améliorer la prise en charge des patients et influencer les recommandations internationales en cardio-oncologie.
 
 ## Qualifications exceptionnelles du candidat
 
-Le Dr Stefan Hugelshofer est un médecin cardiologue d'une qualité remarquable, dont le parcours et les compétences le positionnent idéalement pour mener ce projet ambitieux. Formé au CHUV dans notre Service de Cardiologie, il a démontré une expertise particulière dans la prise en charge des patients complexes et a développé un intérêt marqué pour la cardio-oncologie, domaine dans lequel il s'est spécialisé.
+La Dre Sarah Hugelshofer est une médecin cardiologue d'une qualité remarquable, dont le parcours et les compétences la positionnent idéalement pour mener ce projet ambitieux. Formée au CHUV dans notre Service de Cardiologie, elle a démontré une expertise particulière dans la prise en charge des patients complexes et a développé un intérêt marqué pour la cardio-oncologie, domaine dans lequel elle s'est spécialisée.
 
-Au-delà de ses compétences cliniques reconnues, le Dr Hugelshofer possède une solide formation en recherche clinique et en épidémiologie. Il a déjà contribué à plusieurs projets de recherche au sein de notre service, démontrant sa capacité à mener des études de qualité tout en maintenant une activité clinique soutenue. Sa rigueur méthodologique, son esprit d'analyse critique et sa persévérance sont des atouts essentiels pour garantir le succès de ce projet.
+Au-delà de ses compétences cliniques reconnues, la Dre Hugelshofer possède une solide formation en recherche clinique et en épidémiologie. Elle a déjà contribué à plusieurs projets de recherche au sein de notre service, démontrant sa capacité à mener des études de qualité tout en maintenant une activité clinique soutenue. Sa rigueur méthodologique, son esprit d'analyse critique et sa persévérance sont des atouts essentiels pour garantir le succès de ce projet.
 
-Son engagement dans le développement de la cardio-oncologie au CHUV est également remarquable. Il participe activement à notre consultation spécialisée de cardio-oncologie et collabore étroitement avec les équipes d'oncologie médicale et de radiothérapie, créant ainsi un réseau multidisciplinaire essentiel pour ce type de recherche.
+Son engagement dans le développement de la cardio-oncologie au CHUV est également remarquable. Elle participe activement à notre consultation spécialisée de cardio-oncologie et collabore étroitement avec les équipes d'oncologie médicale et de radiothérapie, créant ainsi un réseau multidisciplinaire essentiel pour ce type de recherche.
 
 ## Engagement institutionnel et infrastructure de soutien
 
@@ -46,7 +46,7 @@ Le CHUV et notre Service de Cardiologie apportent un soutien institutionnel fort
 
 - **Support statistique senior**: Un statisticien senior de notre Unité de Recherche Clinique sera alloué au projet pour assurer la rigueur des analyses et la validité des résultats. Cette expertise méthodologique est un atout majeur pour la publication dans des revues de haut impact.
 
-- **Espace de travail et ressources**: Le Dr Hugelshofer dispose d'un bureau et d'un accès complet aux ressources informatiques et documentaires du CHUV, facilitant ainsi son travail de recherche.
+- **Espace de travail et ressources**: La Dre Hugelshofer dispose d'un bureau et d'un accès complet aux ressources informatiques et documentaires du CHUV, facilitant ainsi son travail de recherche.
 
 - **Support éthique et réglementaire**: Notre Service de Recherche et notre Commission d'éthique apportent leur expertise pour garantir la conformité réglementaire et éthique du projet.
 
@@ -76,7 +76,7 @@ Ce projet s'intègre également dans une vision à plus long terme visant à ét
 
 ## Conclusion et recommandation
 
-En conclusion, je recommande avec la plus grande conviction l'attribution de cette subvention au Dr Stefan Hugelshofer pour le projet CVRF-CARDIO-PROTECT. Ce projet allie excellence scientifique, innovation méthodologique, et pertinence clinique immédiate. Le Dr Hugelshofer possède toutes les qualifications et la motivation nécessaires pour mener ce projet à bien, et bénéficie d'un soutien institutionnel solide qui garantit les conditions optimales de réussite.
+En conclusion, je recommande avec la plus grande conviction l'attribution de cette subvention au Dr Sarah Hugelshofer pour le projet CVRF-CARDIO-PROTECT. Ce projet allie excellence scientifique, innovation méthodologique, et pertinence clinique immédiate. La Dre Hugelshofer possède toutes les qualifications et la motivation nécessaires pour mener ce projet à bien, et bénéficie d'un soutien institutionnel solide qui garantit les conditions optimales de réussite.
 
 L'investissement de la Fondation Emma Muschamp dans ce projet aura un impact significatif et durable, non seulement sur la carrière académique du Dr Hugelshofer, mais surtout sur l'avancement des connaissances en cardio-oncologie et sur la qualité des soins offerts aux patients oncologiques en Suisse.
 

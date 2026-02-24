@@ -219,7 +219,7 @@ Once you find it, **write down the full path**:
 
 **Windows example:**
 ```
-C:\Users\Stefan\Documents\Cardio-oncology-Switzerland\grant_application
+C:\Users\Sarah\Documents\Cardio-oncology-Switzerland\grant_application
 ```
 
 **Mac example:**

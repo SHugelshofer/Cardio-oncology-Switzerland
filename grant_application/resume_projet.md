@@ -4,7 +4,7 @@
 **CVRF – CardioProtect : Facteurs de risque cardio-vasculaires, adhérence aux guidelines et cardiotoxicité en cardio-oncologie**
 
 ## Investigateur Principal
-**Dr Stefan Hugelshofer**  
+**Dr Sarah Hugelshofer**  
 Service de Cardiologie  
 Centre Hospitalier Universitaire Vaudois (CHUV)  
 Lausanne, Suisse
@@ -263,16 +263,16 @@ Ce projet s'inscrit dans la mission Emma Muschamp : recherche clinique appliqué
 
 ---
 
-**Document préparé par:** Dr Stefan Hugelshofer  
+**Document préparé par:** Dr Sarah Hugelshofer  
 **Institution:** Service de Cardiologie, CHUV  
 **Date:** 24 février 2026  
 **Version:** 2.0
 
 **Pour plus d'informations:**  
-Dr Stefan Hugelshofer  
+Dr Sarah Hugelshofer  
 Service de Cardiologie, CHUV  
 Rue du Bugnon 46  
 1011 Lausanne, Suisse  
-Email: stefan.hugelshofer@chuv.ch
+Email: sarah.hugelshofer@chuv.ch
 
 **Références détaillées:** Voir `references_epidemiologie.md` et `demographics_age_cancer.md`

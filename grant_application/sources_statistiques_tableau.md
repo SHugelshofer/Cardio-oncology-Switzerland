@@ -99,6 +99,6 @@ Pour la liste complète des références avec DOI et citations détaillées, con
 
 **Document préparé pour**: Grant application CVRF-CARDIO-PROTECT  
 **Date**: 24 février 2026  
-**Auteur**: Dr Stefan Hugelshofer, Service de Cardiologie, CHUV
+**Auteur**: Dr Sarah Hugelshofer, Service de Cardiologie, CHUV
 
 **Note**: Ce document répond spécifiquement à la question "Where did you take these numbers from?" en fournissant une traçabilité complète et transparente des sources statistiques.

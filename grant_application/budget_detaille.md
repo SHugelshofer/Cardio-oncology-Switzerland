@@ -3,7 +3,7 @@
 ## Demande de Subvention à la Fondation Emma Muschamp
 
 **Projet:** CVRF – CardioProtect : Facteurs de risque cardio-vasculaires, adhérence aux guidelines et cardiotoxicité en cardio-oncologie  
-**Investigateur Principal:** Dr Stefan Hugelshofer  
+**Investigateur Principal:** Dr Sarah Hugelshofer  
 **Institution:** Service de Cardiologie, CHUV  
 **Montant Demandé:** CHF 50,000  
 **Durée du Projet:** 24 mois  
@@ -154,7 +154,7 @@ Le CHUV s'engage à fournir un support institutionnel substantiel qui représent
 
 ### 1. Personnel - Temps Protégé de l'Investigateur (CHF 25,000)
 
-**Dr Stefan Hugelshofer - Investigateur Principal**
+**Dr Sarah Hugelshofer - Investigateur Principal**
 - Temps protégé: 20% ETP pendant 24 mois
 - Valeur estimée: CHF 25,000 (basé sur salaire équivalent)
 
@@ -324,7 +324,7 @@ Comparé à des projets similaires en cardio-oncologie:
 
 ### Contrôle Budgétaire
 
-**Responsable budgétaire:** Dr Stefan Hugelshofer (Investigateur Principal)  
+**Responsable budgétaire:** Dr Sarah Hugelshofer (Investigateur Principal)  
 **Supervision:** Prof. Olivier Müller (Chef de Service)  
 **Administration:** Service de Recherche, CHUV
 
@@ -380,10 +380,10 @@ Ce budget permettra de réaliser le projet CVRF – CardioProtect dans des condi
 ---
 
 **Document préparé par:**  
-Dr Stefan Hugelshofer  
+Dr Sarah Hugelshofer  
 Investigateur Principal  
 Service de Cardiologie, CHUV  
-stefan.hugelshofer@chuv.ch
+sarah.hugelshofer@chuv.ch
 
 **Approuvé par:**  
 Prof. Olivier Müller  

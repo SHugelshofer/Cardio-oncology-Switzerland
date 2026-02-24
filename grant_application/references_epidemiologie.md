@@ -166,6 +166,6 @@ Les taux de prévalence cités sont **solidement ancrés dans la littérature sc
 **Version:** 1.0
 
 **Contact pour questions méthodologiques:**  
-Dr Stefan Hugelshofer  
+Dr Sarah Hugelshofer  
 Service de Cardiologie, CHUV  
-Email: stefan.hugelshofer@chuv.ch
+Email: sarah.hugelshofer@chuv.ch

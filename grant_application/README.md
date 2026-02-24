@@ -72,7 +72,7 @@ The support letter (`lettre_soutien_Prof_Muller.md`) should be:
 
 The letter is written in professional French and emphasizes:
 - Scientific merit and innovation of the CVRF-CARDIO-PROTECT project
-- Dr. Stefan Hugelshofer's qualifications and expertise
+- Dr. Sarah Hugelshofer's qualifications and expertise
 - Institutional support from CHUV (infrastructure, REDCap database, statistician, office space)
 - Expected impact and publication strategy
 - Alignment with CHUV's strategic priorities in cardio-oncology
@@ -81,7 +81,7 @@ The letter is written in professional French and emphasizes:
 
 **Project Name:** CVRF-CARDIO-PROTECT  
 **Full Title:** Cardiovascular Risk Factors and Cardioprotective Medications in Cardio-Oncology  
-**Principal Investigator:** Dr. Stefan Hugelshofer  
+**Principal Investigator:** Dr. Sarah Hugelshofer  
 **Institution:** CHUV - Centre Hospitalier Universitaire Vaudois  
 **Department:** Service de Cardiologie  
 **Requested Amount:** CHF 50,000  
@@ -91,7 +91,7 @@ The letter is written in professional French and emphasizes:
 
 For questions about this grant application or the CVRF-CARDIO-PROTECT study, please contact:
 
-**Dr. Stefan Hugelshofer**  
+**Dr. Sarah Hugelshofer**  
 Service de Cardiologie  
 CHUV  
 Email: [contact information]
