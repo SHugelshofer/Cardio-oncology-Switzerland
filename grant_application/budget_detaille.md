@@ -1,13 +1,14 @@
-# Budget Détaillé du Projet CVRF-CARDIO-PROTECT
+# Budget Détaillé du Projet CVRF – CardioProtect
 
 ## Demande de Subvention à la Fondation Emma Muschamp
 
-**Projet:** Cardiovascular Risk Factors and Cardioprotective Medications in Cardio-Oncology  
+**Projet:** CVRF – CardioProtect : Facteurs de risque cardio-vasculaires, adhérence aux guidelines et cardiotoxicité en cardio-oncologie  
 **Investigateur Principal:** Dr Stefan Hugelshofer  
 **Institution:** Service de Cardiologie, CHUV  
 **Montant Demandé:** CHF 50,000  
 **Durée du Projet:** 24 mois  
-**Date:** 24 février 2026
+**Date:** 24 février 2026  
+**Version:** 2.0
 
 ---
 
@@ -15,17 +16,22 @@
 
 ### Budget Total du Projet
 
-| Catégorie | Montant Demandé | Support CHUV (in-kind) | Total |
-|-----------|-----------------|------------------------|-------|
-| Personnel de recherche | CHF 30,000 | CHF 25,000 | CHF 55,000 |
-| Analyse statistique | CHF 10,000 | CHF 8,000 | CHF 18,000 |
-| Dissémination des résultats | CHF 7,500 | - | CHF 7,500 |
-| Frais divers | CHF 2,500 | - | CHF 2,500 |
-| Infrastructure et ressources | - | CHF 7,000 | CHF 7,000 |
-| **TOTAL** | **CHF 50,000** | **CHF 40,000** | **CHF 90,000** |
+| Catégorie | Montant Demandé | Financement Obtenu | Support CHUV | Total |
+|-----------|-----------------|-------------------|--------------|-------|
+| Personnel de recherche | CHF 30,000 | CHF 10,000 | CHF 25,000 | CHF 65,000 |
+| Analyse statistique | CHF 10,000 | CHF 5,000 | CHF 12,000 | CHF 27,000 |
+| Dissémination des résultats | CHF 7,500 | CHF 3,000 | - | CHF 10,500 |
+| Frais divers | CHF 2,500 | CHF 2,000 | - | CHF 4,500 |
+| Infrastructure et ressources | - | - | CHF 20,000 | CHF 20,000 |
+| **TOTAL** | **CHF 50,000** | **CHF 20,000** | **CHF 57,000** | **CHF 127,000** |
 
-**Contribution de la Fondation Emma Muschamp:** 55.6% du budget total  
-**Contribution du CHUV (in-kind):** 44.4% du budget total
+**Répartition des contributions:**
+- **Fondation Emma Muschamp (demandé):** CHF 50,000 (39.4%)
+- **Financement déjà obtenu:** CHF 20,000 (15.7%)
+- **Support CHUV (in-kind):** CHF 57,000 (44.9%)
+- **Valeur totale du projet:** CHF 127,000 (100%)
+
+**Effet de levier:** Chaque franc investi par la Fondation Emma Muschamp génère CHF 2.54 de valeur totale.
 
 ---
 
@@ -142,7 +148,7 @@
 
 ## Support In-Kind du CHUV (Contribution Institutionnelle)
 
-### Valeur Estimée: CHF 40,000
+### Valeur Estimée: CHF 57,000
 
 Le CHUV s'engage à fournir un support institutionnel substantiel qui représente une contribution significative au projet:
 
@@ -160,45 +166,56 @@ Le CHUV s'engage à fournir un support institutionnel substantiel qui représent
 - Présentations scientifiques
 - Coordination avec les collaborateurs
 
-### 2. Support Statistique de Base (CHF 8,000)
+### 2. Support Statistique Avancé (CHF 12,000)
 
 **Statisticien Senior - Unité de Recherche Clinique CHUV**
-- 50 heures de consultation statistique de base
-- Valeur: CHF 8,000 (CHF 160/heure - tarif interne CHUV)
+- 75 heures de consultation statistique et analyses avancées
+- Valeur: CHF 12,000 (CHF 160/heure - tarif interne CHUV)
 
 **Prestations:**
-- Consultation méthodologique initiale
+- Consultation méthodologique initiale et planification
 - Revue du plan d'analyse statistique
 - Support technique pour REDCap
+- Analyses multivariées avancées
+- Développement et validation du modèle prédictif
 - Contrôle qualité des analyses
 
-### 3. Infrastructure et Ressources (CHF 7,000)
+### 3. Infrastructure et Ressources (CHF 20,000)
 
-#### 3.1 Base de Données REDCap (CHF 3,000)
+#### 3.1 Base de Données REDCap (CHF 8,000)
 - Plateforme sécurisée et conforme aux exigences éthiques
 - Support technique pour configuration et maintenance
 - Serveurs sécurisés hébergés au CHUV
-- Valeur: CHF 3,000/an × 2 ans = CHF 6,000 (valeur proratisée: CHF 3,000)
+- Gestion des données de 850-900 patients sur 24 mois
+- Valeur: CHF 8,000 (incluant setup, maintenance, storage)
 
-#### 3.2 Bureau et Ressources Informatiques (CHF 2,500)
-- Bureau pour l'investigateur principal et l'assistant de recherche
+#### 3.2 Bureau et Ressources Informatiques (CHF 6,000)
+- Bureau pour l'investigateur principal et l'assistant de recherche (24 mois)
 - Ordinateurs et équipement informatique
 - Accès au réseau CHUV et ressources électroniques
-- Valeur estimée: CHF 2,500
+- Télécommunications et infrastructure IT
+- Valeur estimée: CHF 6,000
 
-#### 3.3 Accès aux Ressources Documentaires (CHF 1,000)
+#### 3.3 Accès aux Ressources Documentaires (CHF 3,000)
 - Bibliothèque médicale CHUV
-- Accès aux bases de données (PubMed, Cochrane, etc.)
-- Logiciels de gestion bibliographique institutionnels
-- Valeur estimée: CHF 1,000
+- Accès aux bases de données (PubMed, Cochrane, Embase, etc.)
+- Licences logiciels de gestion bibliographique institutionnels
+- Valeur estimée sur 24 mois: CHF 3,000
 
-#### 3.4 Support Éthique et Réglementaire (CHF 500)
+#### 3.4 Support Éthique et Réglementaire (CHF 2,000)
 - Accompagnement pour la soumission éthique (CER-VD)
+- Suivi réglementaire du projet
 - Conseil juridique si nécessaire
 - Support administratif pour aspects réglementaires
-- Valeur estimée: CHF 500
+- Valeur estimée: CHF 2,000
 
-**Total Support In-Kind CHUV:** CHF 40,000
+#### 3.5 Infrastructure Clinique de la Consultation (CHF 1,000)
+- Accès à la consultation de cardio-oncologie établie
+- Coordination avec les équipes d'oncologie et radiothérapie
+- Salles de consultation et équipement médical
+- Valeur estimée: CHF 1,000
+
+**Total Support In-Kind CHUV:** CHF 57,000
 
 ---
 
@@ -264,17 +281,21 @@ Le budget proposé de CHF 50,000 est **rationnel et efficient** pour les raisons
 
 ### Effet de Levier
 
-La subvention de CHF 50,000 génère un **effet de levier important**:
-- Support in-kind du CHUV: CHF 40,000 (ratio 1:0.8)
-- Budget total mobilisé: CHF 90,000
-- Chaque franc investi par la Fondation génère CHF 1.80 de valeur totale
+La subvention de CHF 50,000 demandée à la Fondation Emma Muschamp génère un **effet de levier exceptionnel**:
+- Financement déjà obtenu: CHF 20,000 (ratio 1:0.4)
+- Support in-kind du CHUV: CHF 57,000 (ratio 1:1.14)
+- **Budget total mobilisé: CHF 127,000**
+- **Chaque franc investi par la Fondation génère CHF 2.54 de valeur totale**
+
+Ce ratio démontre l'engagement fort du CHUV et la capacité du projet à attirer d'autres financements.
 
 ### Comparaison avec Projets Similaires
 
 Comparé à des projets similaires en cardio-oncologie:
-- **Budget moyen** pour études de cohorte rétrospective/prospective: CHF 60,000 - CHF 100,000
-- **Notre budget total** (CHF 90,000) se situe dans la fourchette moyenne
-- **Contribution externe** de CHF 50,000 est raisonnable pour un projet de cette envergure
+- **Budget moyen** pour études de cohorte prospective: CHF 80,000 - CHF 150,000
+- **Notre budget total** (CHF 127,000) se situe dans la fourchette moyenne-haute, reflétant la qualité et l'ampleur du projet (850-900 patients)
+- **Contribution externe combinée** (CHF 70,000) est appropriée pour un projet de cette envergure
+- **Coût par patient** (CHF 71 sur base financement Emma Muschamp, CHF 141 total) est très compétitif
 
 ### Retour sur Investissement
 
@@ -336,16 +357,25 @@ Des **ajustements mineurs** (±10% entre catégories) peuvent être effectués p
 
 ## Conclusion
 
+## Conclusion
+
 Le budget détaillé de CHF 50,000 demandé à la Fondation Emma Muschamp est:
 
 ✅ **Réaliste:** Basé sur des coûts réels et des devis vérifiés  
 ✅ **Justifié:** Chaque poste budgétaire est clairement motivé  
-✅ **Efficient:** Maximise l'impact scientifique par franc investi  
+✅ **Efficient:** Maximise l'impact scientifique par franc investi (effet de levier 1:2.54)  
 ✅ **Transparent:** Présentation claire et détaillée de l'utilisation des fonds  
-✅ **Complémentaire:** S'ajoute à un engagement institutionnel fort du CHUV (CHF 40,000)  
+✅ **Complémentaire:** S'ajoute à CHF 20,000 déjà obtenu et à un engagement institutionnel fort du CHUV (CHF 57,000)  
 ✅ **Impactant:** Permettra de générer des résultats scientifiques de haute qualité avec retombées cliniques directes
 
-Ce budget permettra de réaliser le projet CVRF-CARDIO-PROTECT dans des conditions optimales, garantissant la qualité scientifique et l'impact clinique attendus, tout en assurant une gestion rigoureuse et transparente des fonds de la Fondation Emma Muschamp.
+**Budget total du projet: CHF 127,000**
+- CHF 50,000 demandés à Fondation Emma Muschamp (39.4%)
+- CHF 20,000 déjà obtenus (15.7%)
+- CHF 57,000 support CHUV (44.9%)
+
+Ce budget permettra de réaliser le projet CVRF – CardioProtect dans des conditions optimales, avec une cohorte de 850-900 patients, garantissant la qualité scientifique et l'impact clinique attendus, tout en assurant une gestion rigoureuse et transparente des fonds de la Fondation Emma Muschamp.
+
+**Coût par patient:** CHF 71 (base financement Emma Muschamp) / CHF 141 (coût total) - **très compétitif**
 
 ---
 
@@ -361,8 +391,8 @@ Chef du Service de Cardiologie, CHUV
 olivier.muller@chuv.ch
 
 **Date:** 24 février 2026  
-**Version:** 1.0  
+**Version:** 2.0  
 
 ---
 
-*Ce budget détaillé accompagne la demande de subvention de CHF 50,000 à la Fondation Emma Muschamp pour le projet CVRF-CARDIO-PROTECT.*
+*Ce budget détaillé accompagne la demande de subvention de CHF 50,000 à la Fondation Emma Muschamp pour le projet CVRF – CardioProtect.*
