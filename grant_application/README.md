@@ -4,11 +4,32 @@ This directory contains materials for grant applications related to the CVRF-CAR
 
 ## Contents
 
+### Project Documentation
+
+- **resume_projet.md** - Comprehensive project summary including background, methodology, expected outcomes, and budget details
+- **references_epidemiologie.md** - Scientific references and sources for cardiovascular risk factor prevalence statistics
+
 ### Support Letters
 
 - **lettre_soutien_Prof_Muller.md** - Professional support letter from Prof. Olivier Müller (Chef du Service de Cardiologie, CHUV) for the CHF 50,000 grant application to Fondation Emma Muschamp
 
 ## Usage Instructions
+
+### For the Project Summary
+
+The project summary (`resume_projet.md`) provides:
+- Complete background and rationale for the study
+- **Evidence-based cardiovascular risk factor prevalence rates** (with citations)
+- Detailed methodology and statistical analysis plan
+- Expected outcomes and impact
+- Budget breakdown and timeline
+
+**Important Note on Statistics:** The prevalence rates cited (diabète 20-30%, hypertension 35-50%, dyslipidémie 30-40%, obésité 25-35%, maladie cardiovasculaire établie 15-25%) are based on peer-reviewed literature. See `references_epidemiologie.md` for complete citations including:
+- Koene RJ et al., Circulation 2016
+- Herrmann J et al., Circulation Research 2022
+- Armenian SH et al., JACC: CardioOncology 2023
+- Lyon AR et al., ESC Heart Failure 2022
+- And other major cardio-oncology studies
 
 ### For the Support Letter
 
