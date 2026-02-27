@@ -1,135 +1,119 @@
-# Budget Adapté – CVRF CardioProtect
-## Subvention CHF 50,000 – Phase 1 (12 Mois)
+# Budget – CVRF CardioProtect
+## Subvention CHF 50,000 – Phase 1 (12 mois)
 
 **Projet :** CVRF – CardioProtect : Facteurs de risque cardio-vasculaires, adhérence aux guidelines et cardiotoxicité en cardio-oncologie
-**Investigateur Principal :** Dr Sarah Hugelshofer
-**Institution :** Service de Cardiologie, CHUV
-**Montant demandé (présente demande) :** CHF 50,000
-**Durée couverte :** 12 mois – Phase 1 (mise en place et collecte des données)
-**Date :** 27 février 2026 | **Version :** 3.0
+**Investigateur Principal :** Dr Sarah Hugelshofer | Service de Cardiologie, CHUV
+**Montant demandé :** CHF 50,000 | **Durée :** 12 mois (Phase 1)
+**Date :** 27 février 2026 | **Version :** 4.0
 
-> **Note importante sur le financement :** Le présent budget couvre uniquement la **Phase 1 du projet (12 mois)**. Le financement des phases ultérieures — analyses approfondies, publications et dissémination — **fera l'objet de nouvelles demandes de subvention** soumises à d'autres fondations et organismes de financement (FNS, Fondation Suisse de Cardiologie, etc.) au fur et à mesure de l'avancement du projet.
+> **Financement :** La présente subvention de CHF 50,000 couvre exclusivement la Phase 1 (12 mois). Le reste du financement du projet — analyses avancées, publications, dissémination — **sera assuré par de futures demandes de fonds** soumises auprès d'autres organismes (FNS, Fondation Suisse de Cardiologie, etc.).
 
 ---
 
-## Vue d'ensemble du budget – CHF 50,000
+## 1. Vue d'ensemble – CHF 50,000 (trois scénarios d'EPT)
 
-| Catégorie | Scénario 20% | Scénario 30% *(référence)* | Scénario 40% |
-|-----------|:---:|:---:|:---:|
-| **1. Personnel** (assistante médicale) | CHF 16,000 | CHF 24,000 | CHF 32,000 |
-| **2. Analyses statistiques** | CHF 17,000 | CHF 14,000 | CHF 8,000 |
-| **3. Dissémination** | CHF 10,000 | CHF 7,000 | CHF 6,000 |
-| **4. Frais divers et imprévus** | CHF 7,000 | CHF 5,000 | CHF 4,000 |
+| Catégorie | 20% EPT | 30% EPT *(référence)* | 40% EPT |
+|-----------|:-------:|:---------------------:|:-------:|
+| **1. Personnel** (médecin assistant 3ème année) | CHF 20,000 | CHF 30,000 | CHF 40,000 |
+| **2. Analyses statistiques** | CHF 16,000 | CHF 10,000 | CHF 6,000 |
+| **3. Dissémination** | CHF 9,000 | CHF 6,000 | CHF 3,000 |
+| **4. Frais divers et imprévus** | CHF 5,000 | CHF 4,000 | CHF 1,000 |
 | **TOTAL** | **CHF 50,000** | **CHF 50,000** | **CHF 50,000** |
 
-*Le scénario à 30% est présenté comme référence. Les trois scénarios sont équilibrés et peuvent être ajustés selon le taux d'engagement retenu pour l'assistante médicale.*
+*Le scénario à 30% EPT est présenté comme référence. Les trois scénarios maintiennent un total de CHF 50,000 et peuvent être ajustés selon le taux d'engagement retenu.*
 
 ---
 
-## Détail par catégorie *(scénario de référence : 30%)*
+## 2. Détail par catégorie *(scénario de référence : 30% EPT)*
 
-### 1. Personnel – CHF 24,000 (48%)
+### 2.1 Personnel – CHF 30,000 (60%)
 
-**Assistante médicale – 20 à 40% ETP, 12 mois**
+**Médecin assistant de 3ème année (MA3) – 20 à 40% EPT, 12 mois**
 
 | Paramètre | Valeur |
 |-----------|--------|
-| Taux d'engagement | 30% ETP *(fourchette : 20–40%)* |
+| Poste | Médecin assistant 3ème année (MA3) |
+| Taux d'engagement | 30% EPT *(fourchette : 20–40%)* |
 | Durée | 12 mois |
-| Salaire annuel équivalent plein temps | CHF 80,000 |
-| Montant (30%) | **CHF 24,000** |
-| Fourchette selon taux | 20% → CHF 16,000 / 40% → CHF 32,000 |
+| Salaire mensuel brut (100% EPT) | CHF 7,682 *(grille CHUV/Canton Vaud – CCT MédAss 2025)* |
+| Salaire annuel brut (100% EPT) | CHF 7,682 × 13 mois (13e salaire) = CHF 99,866 ≈ **CHF 100,000** |
+| Montant budgétisé (30% EPT × 12 mois) | **CHF 30,000** |
+| Fourchette selon taux | 20% EPT → CHF 20,000 / 40% EPT → CHF 40,000 |
 
-**Missions – Phase 1 :**
-- Extraction rétrospective des données 2025 (≈ 500 patients) et saisie dans REDCap
-- Contrôle qualité des données (variables cliniques, biologiques, imagerie)
-- Coordination du suivi prospectif débutant (patients 2026)
-- Gestion administrative et réglementaire (soumission CER-VD, consentements)
-- Liaison avec les équipes d'oncologie et de radiothérapie
+**Missions – Phase 1 :** extraction rétrospective des données (≈ 500 patients, saisie REDCap), contrôle qualité (variables cliniques, biologiques, imagerie), coordination inter-services (oncologie, radiothérapie), gestion réglementaire (soumission CER-VD, consentements), suivi prospectif débutant (patients 2026).
 
 ---
 
-### 2. Analyses statistiques – CHF 14,000 (28%)
+### 2.2 Analyses statistiques – CHF 10,000 (20%)
 
 | Prestation | Volume | Tarif | Montant |
 |------------|--------|-------|---------|
-| Statisticien consultant (planification, analyses descriptives préliminaires) | 60 h | CHF 160/h | CHF 9,600 |
+| Statisticien consultant (planification, analyses descriptives préliminaires) | 50 h | CHF 160/h | CHF 8,000 |
 | Licences logiciels statistiques (R, Stata) | Annuelle | Forfait | CHF 1,200 |
-| Infrastructure de données (REDCap, cloud, backup sécurisé) | Annuelle | Forfait | CHF 3,200 |
-| **Total** | | | **CHF 14,000** |
+| Infrastructure de données (REDCap, backup sécurisé) | Annuelle | Forfait | CHF 800 |
+| **Total** | | | **CHF 10,000** |
 
-*Les analyses complexes (régression multivariée, propensity score, modèle prédictif, validation) seront financées dans les demandes de subvention ultérieures.*
+*Les analyses multivariées, propensity score et modèle prédictif seront financés par de futures demandes de fonds.*
 
 ---
 
-### 3. Dissémination – CHF 7,000 (14%)
+### 2.3 Dissémination – CHF 6,000 (12%)
 
 | Poste | Montant |
 |-------|---------|
 | Publication du protocole d'étude (open access, ex. Trials/BMC) | CHF 2,000 |
 | Inscription et déplacement – 1 congrès international (ESC ou cardio-oncologie) | CHF 2,000 |
-| Révision linguistique professionnelle (anglais scientifique) | CHF 1,000 |
-| Matériel de présentation (affiche congrès, impressions) | CHF 500 |
+| Révision linguistique professionnelle (anglais scientifique) | CHF 500 |
 | Rapport intermédiaire à 12 mois (communication aux bailleurs) | CHF 1,500 |
-| **Total** | **CHF 7,000** |
+| **Total** | **CHF 6,000** |
 
-*Les publications des résultats principaux seront soumises et financées lors des phases ultérieures.*
+*Les publications des résultats principaux seront financées par de futures demandes de fonds.*
 
 ---
 
-### 4. Frais divers et imprévus – CHF 5,000 (10%)
+### 2.4 Frais divers et imprévus – CHF 4,000 (8%)
 
 | Poste | Montant |
 |-------|---------|
 | Frais de soumission éthique CER-VD | CHF 500 |
-| Matériel de bureau et consommables | CHF 600 |
-| Support informatique et backup (disques durs) | CHF 400 |
-| Télécommunications, envois, frais administratifs | CHF 500 |
-| Réserve imprévus (≈ 10% du budget hors personnel) | CHF 3,000 |
-| **Total** | **CHF 5,000** |
+| Matériel de bureau, consommables et impressions | CHF 500 |
+| Support informatique et backup (disques durs) | CHF 500 |
+| Télécommunications et frais administratifs | CHF 500 |
+| Réserve imprévus | CHF 2,000 |
+| **Total** | **CHF 4,000** |
 
 ---
 
-## Calendrier des dépenses – 12 mois
+## 3. Calendrier des dépenses – 12 mois *(scénario 30% EPT)*
 
 | Trimestre | Personnel | Statistiques | Dissémination | Divers | **Total** |
 |-----------|:---------:|:------------:|:-------------:|:------:|:---------:|
-| **T1** (M1–3) : Mise en place, éthique, recrutement | CHF 6,000 | CHF 2,000 | – | CHF 3,000 | **CHF 11,000** |
-| **T2** (M4–6) : Collecte données rétrospectives | CHF 6,000 | CHF 4,000 | CHF 1,000 | CHF 1,000 | **CHF 12,000** |
-| **T3** (M7–9) : Collecte suite + début prospectif | CHF 6,000 | CHF 4,000 | CHF 2,000 | CHF 500 | **CHF 12,500** |
-| **T4** (M10–12) : Analyses préliminaires + dissém. | CHF 6,000 | CHF 4,000 | CHF 4,000 | CHF 500 | **CHF 14,500** |
-| **TOTAL** | **CHF 24,000** | **CHF 14,000** | **CHF 7,000** | **CHF 5,000** | **CHF 50,000** |
+| **T1** (M1–3) : Mise en place, éthique, recrutement | CHF 7,500 | CHF 1,000 | – | CHF 3,000 | **CHF 11,500** |
+| **T2** (M4–6) : Collecte données rétrospectives | CHF 7,500 | CHF 4,000 | CHF 1,000 | CHF 500 | **CHF 13,000** |
+| **T3** (M7–9) : Collecte suite + début prospectif | CHF 7,500 | CHF 3,500 | CHF 2,000 | CHF 500 | **CHF 13,500** |
+| **T4** (M10–12) : Analyses préliminaires + dissém. | CHF 7,500 | CHF 1,500 | CHF 3,000 | – | **CHF 12,000** |
+| **TOTAL** | **CHF 30,000** | **CHF 10,000** | **CHF 6,000** | **CHF 4,000** | **CHF 50,000** |
 
 ---
 
-## Support institutionnel CHUV *(in-kind, non inclus dans la demande)*
+## 4. Support institutionnel CHUV *(in-kind, non inclus dans la demande)*
 
 | Contribution CHUV | Valeur estimée |
 |-------------------|:--------------:|
-| Temps protégé Dr Hugelshofer (20% ETP, 12 mois) | CHF 16,000 |
+| Temps protégé Dr Hugelshofer (20% EPT, 12 mois) | CHF 20,000 |
 | Statisticien senior – Unité de Recherche Clinique CHUV | CHF 8,000 |
-| Infrastructure REDCap, serveurs sécurisés, IT | CHF 8,000 |
-| Bureau, équipement informatique, ressources documentaires | CHF 9,000 |
+| Infrastructure REDCap, serveurs sécurisés, IT, bureau | CHF 15,000 |
 | Support éthique et réglementaire | CHF 2,000 |
-| Infrastructure de la consultation de cardio-oncologie | CHF 5,000 |
-| **TOTAL IN-KIND CHUV** | **CHF 48,000** |
+| **TOTAL IN-KIND CHUV** | **CHF 45,000** |
 
-**Effet de levier :** CHF 50,000 demandés → **CHF 98,000 de valeur totale mobilisée** (ratio 1 : 1.96)
+**Effet de levier :** CHF 50,000 (subvention) + CHF 45,000 (CHUV in-kind) = **CHF 95,000 de valeur totale mobilisée** (ratio 1 : 1.90)
 
 ---
 
-## Plan de financement du projet sur 3 ans
-
-| Phase | Période | Contenu | Financement estimé | Statut |
-|-------|---------|---------|-------------------|--------|
-| **Phase 1 – Mise en place et collecte** | M1–12 | Infrastructure, collecte données, analyses préliminaires | **CHF 50,000** *(présente demande)* | En cours |
-| Phase 2 – Analyses et publication principale | M13–24 | Analyses multivariées, manuscrit principal, congrès | CHF 45,000–60,000 | Demande à soumettre |
-| Phase 3 – Publications secondaires et extension | M25–36 | Publications secondaires, perspectives multicentriques | CHF 20,000–30,000 | Demande à soumettre |
-
-*Les demandes pour les phases 2 et 3 seront soumises auprès d'autres organismes de financement (FNS, Fondation Suisse de Cardiologie, fondations privées) en s'appuyant sur les résultats préliminaires obtenus lors de la Phase 1.*
+> **Financement du projet sur 3 ans :** La Phase 1 (M1–12) est couverte par la présente subvention de CHF 50,000. Le financement des phases ultérieures — Phase 2 (M13–24 : analyses multivariées, publications principales) et Phase 3 (M25–36 : publications secondaires, perspectives multicentriques) — **sera assuré par de futures demandes de fonds** soumises auprès du FNS, de la Fondation Suisse de Cardiologie et d'autres organismes de financement, en s'appuyant sur les résultats préliminaires de la Phase 1.
 
 ---
 
 **Document préparé par :** Dr Sarah Hugelshofer
 **Institution :** Service de Cardiologie, CHUV – Rue du Bugnon 46, 1011 Lausanne
-**Date :** 27 février 2026 | **Version :** 3.0 *(adaptée 12 mois, assistante médicale 20–40%)*
+**Date :** 27 février 2026 | **Version :** 4.0 *(médecin assistant 3ème année, grille CHUV/VD, EPT 20–40%)*
