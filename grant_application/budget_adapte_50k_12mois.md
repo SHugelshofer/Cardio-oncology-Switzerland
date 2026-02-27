@@ -3,10 +3,10 @@
 
 **Projet :** CVRF – CardioProtect : Facteurs de risque cardio-vasculaires, adhérence aux guidelines et cardiotoxicité en cardio-oncologie
 **Investigateur Principal :** Dr Sarah Hugelshofer | Service de Cardiologie, CHUV
-**Montant demandé :** CHF 50,000 | **Durée :** 12 mois (Phase 1)
-**Date :** 27 février 2026 | **Version :** 4.0
+**Montant demandé (Fondation Muschamp) :** CHF 50,000 | **Durée :** 12 mois (Phase 1)
+**Date :** 27 février 2026 | **Version :** 7.0
 
-> **Financement :** La présente subvention de CHF 50,000 couvre exclusivement la Phase 1 (12 mois). Le reste du financement du projet — analyses avancées, publications, dissémination — **sera assuré par de futures demandes de fonds** soumises auprès d'autres organismes (FNS, Fondation Suisse de Cardiologie, etc.).
+> **Financement multi-sources :** La Phase 1 (12 mois) est financée par **trois sources** : (1) la subvention Fondation Muschamp de **CHF 50,000** (présente demande), (2) un **financement externe complémentaire de CHF 20,000** déjà obtenu auprès d'un organisme externe au CHUV, et (3) un **soutien institutionnel CHUV (in-kind) de CHF 25,000**. Le total mobilisé s'élève à **CHF 95,000**. Le reste du financement du projet — analyses avancées, publications, dissémination — **sera assuré par de futures demandes de fonds** soumises auprès d'autres organismes (FNS, Fondation Suisse de Cardiologie, etc.).
 
 ---
 
@@ -39,6 +39,24 @@
 | Salaire annuel brut (100% EPT) | CHF 7,682 × 13 mois (13e salaire) = CHF 99,866 ≈ **CHF 100,000** |
 | Montant budgétisé (30% EPT × 12 mois) | **CHF 30,000** |
 | Fourchette selon taux | 20% EPT → CHF 20,000 / 40% EPT → CHF 40,000 |
+
+**Détail du coût employeur – scénario de référence (30% EPT) :**
+
+| Composante | Calcul | Montant |
+|------------|--------|---------|
+| Salaire brut (12 mois) | Coût total ÷ 1.20 = CHF 30,000 ÷ 1.20 | **CHF 25,000** |
+| Charges sociales patronales (20% du salaire brut) | AVS/AI/APG 6.35% + AC 1.10% + AF-VD 1.60% + LAA 0.84% + LPP ~10.11% = 20% × CHF 25,000 | **CHF 5,000** |
+| **Total budgétisé** | | **CHF 30,000** |
+
+*Les taux de charges sociales sont indicatifs et basés sur les barèmes 2025 (AVS/AI/APG patronal 6.35%, AC 1.10%, allocations familiales VD 1.60%, LAA/LAAC 0.84%, LPP part patronale ≈ 10.11%).*
+
+**Détail par scénario d'EPT :**
+
+| Scénario | Salaire brut | Charges sociales (~20%) | **Total** |
+|----------|:------------:|:-----------------------:|:---------:|
+| 20% EPT | CHF 16,667 | CHF 3,333 | **CHF 20,000** |
+| 30% EPT *(référence)* | CHF 25,000 | CHF 5,000 | **CHF 30,000** |
+| 40% EPT | CHF 33,333 | CHF 6,667 | **CHF 40,000** |
 
 **Missions – Phase 1 :** extraction rétrospective des données (≈ 500 patients, saisie REDCap), contrôle qualité (variables cliniques, biologiques, imagerie), coordination inter-services (oncologie, radiothérapie), gestion réglementaire (soumission CER-VD, consentements), suivi prospectif débutant (patients 2026).
 
@@ -73,14 +91,21 @@
 
 ### 2.4 Frais divers et imprévus – CHF 4,000 (8%)
 
-| Poste | Montant |
-|-------|---------|
-| Frais de soumission éthique CER-VD | CHF 500 |
-| Matériel de bureau, consommables et impressions | CHF 500 |
-| Support informatique et backup (disques durs) | CHF 500 |
-| Télécommunications et frais administratifs | CHF 500 |
-| Réserve imprévus | CHF 2,000 |
-| **Total** | **CHF 4,000** |
+| Poste | Détail | Montant |
+|-------|--------|---------|
+| **Matériel de consommation** | Matériel de bureau (stylos, classeurs, étiquettes) + consommables informatiques (cartouches, câbles, clés USB) + impressions (questionnaires, CRF papier, affiches) | **CHF 500** |
+| **Équipement** | Disques durs externes (backup chiffré des données patients, ×2) + accessoires informatiques (hub, souris, claviers de remplacement) | **CHF 500** |
+| Frais de soumission éthique CER-VD | Taxe administrative dépôt dossier CER-VD | CHF 500 |
+| Télécommunications et frais administratifs | Frais postaux, téléphonie, frais de copie, abonnements documentaires | CHF 500 |
+| Réserve imprévus | Imprévus non planifiés (dépassements mineurs, urgences) | CHF 2,000 |
+| **Total** | | **CHF 4,000** |
+
+**Distinction matériel de consommation / équipement :**
+
+| Catégorie | Définition | Postes inclus | Montant |
+|-----------|-----------|---------------|---------|
+| **Matériel de consommation** | Biens qui s'épuisent ou se consomment au cours du projet (durée de vie < 1 an) | Matériel de bureau, consommables informatiques, impressions | **CHF 500** |
+| **Équipement** | Biens durables réutilisables sur plusieurs années (durée de vie ≥ 1 an) | Disques durs de sauvegarde (×2), accessoires informatiques | **CHF 500** |
 
 ---
 
@@ -96,24 +121,41 @@
 
 ---
 
-## 4. Support institutionnel CHUV *(in-kind, non inclus dans la demande)*
+## 4. Support institutionnel CHUV *(in-kind, non inclus dans la demande Muschamp)*
+
+> **Note :** Le financement externe complémentaire de **CHF 20,000** (déjà obtenu) couvre le **temps protégé Dr Hugelshofer (20% EPT, 12 mois)**, précédemment pris en charge par le CHUV. La contribution in-kind CHUV est donc réduite de CHF 45,000 à **CHF 25,000**.
 
 | Contribution CHUV | Valeur estimée |
 |-------------------|:--------------:|
-| Temps protégé Dr Hugelshofer (20% EPT, 12 mois) | CHF 20,000 |
+| ~~Temps protégé Dr Hugelshofer (20% EPT, 12 mois)~~ *(couvert par financement externe – voir section 5)* | ~~CHF 20,000~~ |
 | Statisticien senior – Unité de Recherche Clinique CHUV | CHF 8,000 |
 | Infrastructure REDCap, serveurs sécurisés, IT, bureau | CHF 15,000 |
 | Support éthique et réglementaire | CHF 2,000 |
-| **TOTAL IN-KIND CHUV** | **CHF 45,000** |
-
-**Effet de levier :** CHF 50,000 (subvention) + CHF 45,000 (CHUV in-kind) = **CHF 95,000 de valeur totale mobilisée** (ratio 1 : 1.90)
+| **TOTAL IN-KIND CHUV** | **CHF 25,000** |
 
 ---
 
-> **Financement du projet sur 3 ans :** La Phase 1 (M1–12) est couverte par la présente subvention de CHF 50,000. Le financement des phases ultérieures — Phase 2 (M13–24 : analyses multivariées, publications principales) et Phase 3 (M25–36 : publications secondaires, perspectives multicentriques) — **sera assuré par de futures demandes de fonds** soumises auprès du FNS, de la Fondation Suisse de Cardiologie et d'autres organismes de financement, en s'appuyant sur les résultats préliminaires de la Phase 1.
+## 5. Tableau de financement consolidé – Phase 1
+
+| Source de financement | Type | Postes couverts | Montant |
+|-----------------------|------|-----------------|:-------:|
+| **Fondation Muschamp** | Subvention externe (présente demande) | Personnel MA3, statistiques, dissémination, frais divers | **CHF 50,000** |
+| **Financement externe complémentaire** *(organisme externe au CHUV, déjà obtenu)* | Subvention externe | Temps protégé Dr Hugelshofer (20% EPT, 12 mois) | **CHF 20,000** |
+| **CHUV** | Contribution in-kind (hors demande) | Statisticien senior, infrastructure REDCap/IT/bureau, support éthique | **CHF 25,000** |
+| **TOTAL MOBILISÉ – Phase 1** | | | **CHF 95,000** |
+
+**Effet de levier :** CHF 50,000 (Muschamp) + CHF 20,000 (financement externe) + CHF 25,000 (CHUV in-kind) = **CHF 95,000 de valeur totale mobilisée**
+
+- Ratio pour la Fondation Muschamp : CHF 95,000 / CHF 50,000 = **1 : 1.90** (inchangé)
+- Subventions externes totales : CHF 70,000 (Muschamp + financement externe)
+- Part in-kind CHUV : CHF 25,000 (réduite de CHF 45,000 grâce au financement externe obtenu)
+
+---
+
+> **Financement du projet sur 3 ans :** La Phase 1 (M1–12) est financée par la subvention Fondation Muschamp (CHF 50,000), un financement externe complémentaire déjà obtenu (CHF 20,000), et la contribution in-kind CHUV (CHF 25,000), pour un total de CHF 95,000. Le financement des phases ultérieures — Phase 2 (M13–24 : analyses multivariées, publications principales) et Phase 3 (M25–36 : publications secondaires, perspectives multicentriques) — **sera assuré par de futures demandes de fonds** soumises auprès du FNS, de la Fondation Suisse de Cardiologie et d'autres organismes de financement, en s'appuyant sur les résultats préliminaires de la Phase 1.
 
 ---
 
 **Document préparé par :** Dr Sarah Hugelshofer
 **Institution :** Service de Cardiologie, CHUV – Rue du Bugnon 46, 1011 Lausanne
-**Date :** 27 février 2026 | **Version :** 4.0 *(médecin assistant 3ème année, grille CHUV/VD, EPT 20–40%)*
+**Date :** 27 février 2026 | **Version :** 7.0 *(financement multi-sources : Fondation Muschamp CHF 50k + externe CHF 20k + CHUV in-kind CHF 25k ; matériel de consommation/équipement)*
