@@ -3,10 +3,10 @@
 
 **Projet :** CVRF – CardioProtect : Facteurs de risque cardio-vasculaires, adhérence aux guidelines et cardiotoxicité en cardio-oncologie
 **Investigateur Principal :** Dr Sarah Hugelshofer | Service de Cardiologie, CHUV
-**Montant demandé :** CHF 50,000 | **Durée :** 12 mois (Phase 1)
-**Date :** 27 février 2026 | **Version :** 6.0
+**Montant demandé (Fondation Muschamp) :** CHF 50,000 | **Durée :** 12 mois (Phase 1)
+**Date :** 27 février 2026 | **Version :** 7.0
 
-> **Financement :** La présente subvention de CHF 50,000 couvre exclusivement la Phase 1 (12 mois). Le reste du financement du projet — analyses avancées, publications, dissémination — **sera assuré par de futures demandes de fonds** soumises auprès d'autres organismes (FNS, Fondation Suisse de Cardiologie, etc.).
+> **Financement multi-sources :** La Phase 1 (12 mois) est financée par **trois sources** : (1) la subvention Fondation Muschamp de **CHF 50,000** (présente demande), (2) un **financement externe complémentaire de CHF 20,000** déjà obtenu auprès d'un organisme externe au CHUV, et (3) un **soutien institutionnel CHUV (in-kind) de CHF 25,000**. Le total mobilisé s'élève à **CHF 95,000**. Le reste du financement du projet — analyses avancées, publications, dissémination — **sera assuré par de futures demandes de fonds** soumises auprès d'autres organismes (FNS, Fondation Suisse de Cardiologie, etc.).
 
 ---
 
@@ -121,24 +121,41 @@
 
 ---
 
-## 4. Support institutionnel CHUV *(in-kind, non inclus dans la demande)*
+## 4. Support institutionnel CHUV *(in-kind, non inclus dans la demande Muschamp)*
+
+> **Note :** Le financement externe complémentaire de **CHF 20,000** (déjà obtenu) couvre le **temps protégé Dr Hugelshofer (20% EPT, 12 mois)**, précédemment pris en charge par le CHUV. La contribution in-kind CHUV est donc réduite de CHF 45,000 à **CHF 25,000**.
 
 | Contribution CHUV | Valeur estimée |
 |-------------------|:--------------:|
-| Temps protégé Dr Hugelshofer (20% EPT, 12 mois) | CHF 20,000 |
+| ~~Temps protégé Dr Hugelshofer (20% EPT, 12 mois)~~ *(couvert par financement externe – voir section 5)* | ~~CHF 20,000~~ |
 | Statisticien senior – Unité de Recherche Clinique CHUV | CHF 8,000 |
 | Infrastructure REDCap, serveurs sécurisés, IT, bureau | CHF 15,000 |
 | Support éthique et réglementaire | CHF 2,000 |
-| **TOTAL IN-KIND CHUV** | **CHF 45,000** |
-
-**Effet de levier :** CHF 50,000 (subvention) + CHF 45,000 (CHUV in-kind) = **CHF 95,000 de valeur totale mobilisée** (ratio 1 : 1.90)
+| **TOTAL IN-KIND CHUV** | **CHF 25,000** |
 
 ---
 
-> **Financement du projet sur 3 ans :** La Phase 1 (M1–12) est couverte par la présente subvention de CHF 50,000. Le financement des phases ultérieures — Phase 2 (M13–24 : analyses multivariées, publications principales) et Phase 3 (M25–36 : publications secondaires, perspectives multicentriques) — **sera assuré par de futures demandes de fonds** soumises auprès du FNS, de la Fondation Suisse de Cardiologie et d'autres organismes de financement, en s'appuyant sur les résultats préliminaires de la Phase 1.
+## 5. Tableau de financement consolidé – Phase 1
+
+| Source de financement | Type | Postes couverts | Montant |
+|-----------------------|------|-----------------|:-------:|
+| **Fondation Muschamp** | Subvention externe (présente demande) | Personnel MA3, statistiques, dissémination, frais divers | **CHF 50,000** |
+| **Financement externe complémentaire** *(organisme externe au CHUV, déjà obtenu)* | Subvention externe | Temps protégé Dr Hugelshofer (20% EPT, 12 mois) | **CHF 20,000** |
+| **CHUV** | Contribution in-kind (hors demande) | Statisticien senior, infrastructure REDCap/IT/bureau, support éthique | **CHF 25,000** |
+| **TOTAL MOBILISÉ – Phase 1** | | | **CHF 95,000** |
+
+**Effet de levier :** CHF 50,000 (Muschamp) + CHF 20,000 (financement externe) + CHF 25,000 (CHUV in-kind) = **CHF 95,000 de valeur totale mobilisée**
+
+- Ratio pour la Fondation Muschamp : CHF 95,000 / CHF 50,000 = **1 : 1.90** (inchangé)
+- Subventions externes totales : CHF 70,000 (Muschamp + financement externe)
+- Part in-kind CHUV : CHF 25,000 (réduite de CHF 45,000 grâce au financement externe obtenu)
+
+---
+
+> **Financement du projet sur 3 ans :** La Phase 1 (M1–12) est financée par la subvention Fondation Muschamp (CHF 50,000), un financement externe complémentaire déjà obtenu (CHF 20,000), et la contribution in-kind CHUV (CHF 25,000), pour un total de CHF 95,000. Le financement des phases ultérieures — Phase 2 (M13–24 : analyses multivariées, publications principales) et Phase 3 (M25–36 : publications secondaires, perspectives multicentriques) — **sera assuré par de futures demandes de fonds** soumises auprès du FNS, de la Fondation Suisse de Cardiologie et d'autres organismes de financement, en s'appuyant sur les résultats préliminaires de la Phase 1.
 
 ---
 
 **Document préparé par :** Dr Sarah Hugelshofer
 **Institution :** Service de Cardiologie, CHUV – Rue du Bugnon 46, 1011 Lausanne
-**Date :** 27 février 2026 | **Version :** 6.0 *(médecin assistant 3ème année, grille CHUV/VD, EPT 20–40%, détail salaire/charges sociales, matériel de consommation/équipement)*
+**Date :** 27 février 2026 | **Version :** 7.0 *(financement multi-sources : Fondation Muschamp CHF 50k + externe CHF 20k + CHUV in-kind CHF 25k ; matériel de consommation/équipement)*
