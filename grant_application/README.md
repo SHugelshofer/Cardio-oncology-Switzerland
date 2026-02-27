@@ -7,7 +7,8 @@ This directory contains materials for grant applications related to the CVRF-CAR
 ### Project Documentation (Markdown & Word formats)
 
 - **resume_projet.md / .docx** - Comprehensive project summary including background, methodology, expected outcomes, and budget details
-- **budget_detaille.md / .docx** - Detailed budget breakdown for the CHF 50,000 grant application
+- **budget_detaille.md / .docx** - Detailed budget breakdown for the CHF 50,000 grant application (version complète sur 24 mois, assistant de recherche 50%)
+- **budget_adapte_50k_12mois.md** - Budget adapté pour une subvention de CHF 50,000 sur 12 mois, avec assistante médicale à 20–40%, format 2 pages, financement des phases ultérieures prévu par de nouvelles demandes
 - **references_epidemiologie.md / .docx** - Scientific references and sources for cardiovascular risk factor prevalence statistics
 - **demographics_age_cancer.md / .docx** - Detailed age and cancer type distribution from cited studies
 - **sources_statistiques_tableau.md / .docx** - Quick-reference table mapping statistics to sources
