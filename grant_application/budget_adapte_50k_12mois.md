@@ -4,7 +4,7 @@
 **Projet :** CVRF – CardioProtect : Facteurs de risque cardio-vasculaires, adhérence aux guidelines et cardiotoxicité en cardio-oncologie
 **Investigateur Principal :** Dr Sarah Hugelshofer | Service de Cardiologie, CHUV
 **Montant demandé :** CHF 50,000 | **Durée :** 12 mois (Phase 1)
-**Date :** 27 février 2026 | **Version :** 4.0
+**Date :** 27 février 2026 | **Version :** 5.0
 
 > **Financement :** La présente subvention de CHF 50,000 couvre exclusivement la Phase 1 (12 mois). Le reste du financement du projet — analyses avancées, publications, dissémination — **sera assuré par de futures demandes de fonds** soumises auprès d'autres organismes (FNS, Fondation Suisse de Cardiologie, etc.).
 
@@ -39,6 +39,24 @@
 | Salaire annuel brut (100% EPT) | CHF 7,682 × 13 mois (13e salaire) = CHF 99,866 ≈ **CHF 100,000** |
 | Montant budgétisé (30% EPT × 12 mois) | **CHF 30,000** |
 | Fourchette selon taux | 20% EPT → CHF 20,000 / 40% EPT → CHF 40,000 |
+
+**Détail du coût employeur – scénario de référence (30% EPT) :**
+
+| Composante | Calcul | Montant |
+|------------|--------|---------|
+| Salaire brut (12 mois) | Coût total ÷ 1.20 = CHF 30,000 ÷ 1.20 | **CHF 25,000** |
+| Charges sociales patronales (20% du salaire brut) | AVS/AI/APG 6.35% + AC 1.10% + AF-VD 1.60% + LAA 0.84% + LPP ~10.11% = 20% × CHF 25,000 | **CHF 5,000** |
+| **Total budgétisé** | | **CHF 30,000** |
+
+*Les taux de charges sociales sont indicatifs et basés sur les barèmes 2025 (AVS/AI/APG patronal 6.35%, AC 1.10%, allocations familiales VD 1.60%, LAA/LAAC 0.84%, LPP part patronale ≈ 10.11%).*
+
+**Détail par scénario d'EPT :**
+
+| Scénario | Salaire brut | Charges sociales (~20%) | **Total** |
+|----------|:------------:|:-----------------------:|:---------:|
+| 20% EPT | CHF 16,667 | CHF 3,333 | **CHF 20,000** |
+| 30% EPT *(référence)* | CHF 25,000 | CHF 5,000 | **CHF 30,000** |
+| 40% EPT | CHF 33,333 | CHF 6,667 | **CHF 40,000** |
 
 **Missions – Phase 1 :** extraction rétrospective des données (≈ 500 patients, saisie REDCap), contrôle qualité (variables cliniques, biologiques, imagerie), coordination inter-services (oncologie, radiothérapie), gestion réglementaire (soumission CER-VD, consentements), suivi prospectif débutant (patients 2026).
 
@@ -116,4 +134,4 @@
 
 **Document préparé par :** Dr Sarah Hugelshofer
 **Institution :** Service de Cardiologie, CHUV – Rue du Bugnon 46, 1011 Lausanne
-**Date :** 27 février 2026 | **Version :** 4.0 *(médecin assistant 3ème année, grille CHUV/VD, EPT 20–40%)*
+**Date :** 27 février 2026 | **Version :** 5.0 *(médecin assistant 3ème année, grille CHUV/VD, EPT 20–40%, détail salaire/charges sociales)*
