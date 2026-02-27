@@ -4,7 +4,7 @@
 **Projet :** CVRF – CardioProtect : Facteurs de risque cardio-vasculaires, adhérence aux guidelines et cardiotoxicité en cardio-oncologie
 **Investigateur Principal :** Dr Sarah Hugelshofer | Service de Cardiologie, CHUV
 **Montant demandé :** CHF 50,000 | **Durée :** 12 mois (Phase 1)
-**Date :** 27 février 2026 | **Version :** 5.0
+**Date :** 27 février 2026 | **Version :** 6.0
 
 > **Financement :** La présente subvention de CHF 50,000 couvre exclusivement la Phase 1 (12 mois). Le reste du financement du projet — analyses avancées, publications, dissémination — **sera assuré par de futures demandes de fonds** soumises auprès d'autres organismes (FNS, Fondation Suisse de Cardiologie, etc.).
 
@@ -91,14 +91,21 @@
 
 ### 2.4 Frais divers et imprévus – CHF 4,000 (8%)
 
-| Poste | Montant |
-|-------|---------|
-| Frais de soumission éthique CER-VD | CHF 500 |
-| Matériel de bureau, consommables et impressions | CHF 500 |
-| Support informatique et backup (disques durs) | CHF 500 |
-| Télécommunications et frais administratifs | CHF 500 |
-| Réserve imprévus | CHF 2,000 |
-| **Total** | **CHF 4,000** |
+| Poste | Détail | Montant |
+|-------|--------|---------|
+| **Matériel de consommation** | Matériel de bureau (stylos, classeurs, étiquettes) + consommables informatiques (cartouches, câbles, clés USB) + impressions (questionnaires, CRF papier, affiches) | **CHF 500** |
+| **Équipement** | Disques durs externes (backup chiffré des données patients, ×2) + accessoires informatiques (hub, souris, claviers de remplacement) | **CHF 500** |
+| Frais de soumission éthique CER-VD | Taxe administrative dépôt dossier CER-VD | CHF 500 |
+| Télécommunications et frais administratifs | Frais postaux, téléphonie, frais de copie, abonnements documentaires | CHF 500 |
+| Réserve imprévus | Imprévus non planifiés (dépassements mineurs, urgences) | CHF 2,000 |
+| **Total** | | **CHF 4,000** |
+
+**Distinction matériel de consommation / équipement :**
+
+| Catégorie | Définition | Postes inclus | Montant |
+|-----------|-----------|---------------|---------|
+| **Matériel de consommation** | Biens qui s'épuisent ou se consomment au cours du projet (durée de vie < 1 an) | Matériel de bureau, consommables informatiques, impressions | **CHF 500** |
+| **Équipement** | Biens durables réutilisables sur plusieurs années (durée de vie ≥ 1 an) | Disques durs de sauvegarde (×2), accessoires informatiques | **CHF 500** |
 
 ---
 
@@ -134,4 +141,4 @@
 
 **Document préparé par :** Dr Sarah Hugelshofer
 **Institution :** Service de Cardiologie, CHUV – Rue du Bugnon 46, 1011 Lausanne
-**Date :** 27 février 2026 | **Version :** 5.0 *(médecin assistant 3ème année, grille CHUV/VD, EPT 20–40%, détail salaire/charges sociales)*
+**Date :** 27 février 2026 | **Version :** 6.0 *(médecin assistant 3ème année, grille CHUV/VD, EPT 20–40%, détail salaire/charges sociales, matériel de consommation/équipement)*
