@@ -1,9 +1,10 @@
 # CVRF – CardioProtect Grant Application
 
-Repository for grant application materials to **Fondation Emma Muschamp** (CHF 50,000 request).
+Repository for grant application materials targeting **Fondation Emma Muschamp** (CHF 50,000) and **Boehringer Ingelheim** (CHF 20,000).
 
-**Project:** Cardiovascular Risk Factors and Cardioprotective Medications in Cardio-Oncology  
-**Principal Investigator:** Dr. Sarah Hugelshofer, CHUV
+**Project:** Cardiovascular Risk Factors, Guideline Adherence, and Cardiotoxicity in Cardio-Oncology with a Focus on Diabetes and SGLT2 Inhibitors  
+**Principal Investigator:** Dr. Sarah Hugelshofer, CHUV  
+**Total Project Budget:** CHF 147,000
 
 ---
 
@@ -42,8 +43,10 @@ Cardio-oncology-Switzerland/
 ├── 🐍 convert_to_word.py             ← Conversion script
 │
 └── 📁 grant_application/             ← All grant materials
-    ├── 📝 resume_projet.md/.docx            - Project summary
-    ├── 💰 budget_detaille.md/.docx          - Budget breakdown
+    ├── 📝 resume_projet_SGLT2_diabetes.md   - Project summary: diabetes & SGLT2 focus (English, Boehringer Ingelheim)
+    ├── 📝 resume_projet.md/.docx            - Project summary (French, Fondation Emma Muschamp)
+    ├── 💰 budget_detaille.md/.docx          - Budget breakdown (CHF 147,000 total, dual funding)
+    ├── ✉️  lettre_Boehringer_Ingelheim.md   - Grant request letter to Boehringer Ingelheim (CHF 20,000)
     ├── ✉️  lettre_soutien_Prof_Muller.md/.docx - Support letter (Fondation Emma Muschamp)
     ├── ✉️  lettre_Novartis_Dr_Monsutti.md/.docx - Letter to Novartis (Dr Alice Monsutti)
     ├── 📚 references_epidemiologie.md/.docx - References
