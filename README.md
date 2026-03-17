@@ -44,7 +44,8 @@ Cardio-oncology-Switzerland/
 └── 📁 grant_application/             ← All grant materials
     ├── 📝 resume_projet.md/.docx            - Project summary
     ├── 💰 budget_detaille.md/.docx          - Budget breakdown
-    ├── ✉️  lettre_soutien_Prof_Muller.md/.docx - Support letter
+    ├── ✉️  lettre_soutien_Prof_Muller.md/.docx - Support letter (Fondation Emma Muschamp)
+    ├── ✉️  lettre_Novartis_Dr_Monsutti.md/.docx - Letter to Novartis (Dr Alice Monsutti)
     ├── 📚 references_epidemiologie.md/.docx - References
     ├── 📊 demographics_age_cancer.md/.docx  - Demographics
     └── 📋 sources_statistiques_tableau.md/.docx - Statistics
