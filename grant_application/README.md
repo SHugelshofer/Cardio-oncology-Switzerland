@@ -1,21 +1,24 @@
 # Grant Application Materials
 
-This directory contains materials for grant applications related to the CVRF-CARDIO-PROTECT study (Cardiovascular Risk Factors and Cardioprotective Medications in Cardio-Oncology).
+This directory contains materials for grant applications related to the CVRF-CARDIO-PROTECT study (Cardiovascular Risk Factors, Guideline Adherence, and Cardiotoxicity in Cardio-Oncology, with a Focus on Diabetes and SGLT2 Inhibitors).
 
 ## Contents
 
 ### Project Documentation (Markdown & Word formats)
 
-- **resume_projet.md / .docx** - Comprehensive project summary including background, methodology, expected outcomes, and budget details
-- **budget_detaille.md / .docx** - Detailed budget breakdown for the CHF 50,000 grant application (version complète sur 24 mois, assistant de recherche 50%)
-- **budget_adapte_50k_12mois.md** - Budget adapté pour une subvention de CHF 50,000 sur 12 mois, avec assistante médicale à 20–40%, format 2 pages, financement des phases ultérieures prévu par de nouvelles demandes
+- **resume_projet_SGLT2_diabetes.md** - Comprehensive project summary with dedicated focus on diabetes, glycaemic control, and SGLT2 inhibitor cardioprotection (English, for Boehringer Ingelheim submission)
+- **resume_projet.md / .docx** - General project summary (French, for Fondation Emma Muschamp)
+- **budget_detaille.md / .docx** - Detailed budget breakdown for both funding sources (CHF 50,000 Fondation Emma Muschamp + CHF 20,000 Boehringer Ingelheim; total project CHF 147,000)
+- **budget_adapte_50k_12mois.md** - Budget adapté pour CHF 50,000 sur 12 mois (Fondation Emma Muschamp uniquement)
 - **references_epidemiologie.md / .docx** - Scientific references and sources for cardiovascular risk factor prevalence statistics
 - **demographics_age_cancer.md / .docx** - Detailed age and cancer type distribution from cited studies
 - **sources_statistiques_tableau.md / .docx** - Quick-reference table mapping statistics to sources
 
-### Support Letters
+### Support and Request Letters
 
+- **lettre_Boehringer_Ingelheim.md** - Grant request letter to Boehringer Ingelheim (CHF 20,000) — focused on diabetes and SGLT2 inhibitor cardioprotection component (English)
 - **lettre_soutien_Prof_Muller.md / .docx** - Professional support letter from Prof. Olivier Müller (Chef du Service de Cardiologie, CHUV) for the CHF 50,000 grant application to Fondation Emma Muschamp
+- **lettre_Novartis_Dr_Monsutti.md / .docx** - Letter to Novartis (Dr Alice Monsutti)
 
 ### Converting to Word Format
 
@@ -62,7 +65,23 @@ The project summary (`resume_projet.md`) provides:
 - EC3 European Study: Median age 58 years; Breast cancer 38%, Lymphomas 16%
 - SEER Registry: Median age 64 years; Prostate 23%, Breast 22%, Lung 13%
 
-### For the Support Letter
+### For the Boehringer Ingelheim Grant Request Letter
+
+The grant request letter (`lettre_Boehringer_Ingelheim.md`) is written in English and:
+- Targets a specific CHF 20,000 grant from Boehringer Ingelheim
+- Focuses exclusively on the diabetes and SGLT2 inhibitor cardioprotection component
+- Should be printed on official CHUV letterhead and signed by Dr. Hugelshofer and Prof. Müller
+- Describes the complementarity with the Emma Muschamp Foundation grant
+
+### For the SGLT2/Diabetes Focused Project Summary
+
+The `resume_projet_SGLT2_diabetes.md` document:
+- Is written in English for international/pharmaceutical audience (Boehringer Ingelheim)
+- Provides detailed background on SGLT2 inhibitor cardioprotective mechanisms
+- Describes the HFA-PEFF score assessment embedded in the study design
+- Includes specific SGLT2 inhibitor-focused secondary endpoints and analyses
+
+### For the Support Letter (Fondation Emma Muschamp)
 
 The support letter (`lettre_soutien_Prof_Muller.md`) should be:
 
@@ -81,12 +100,13 @@ The letter is written in professional French and emphasizes:
 ## Project Information
 
 **Project Name:** CVRF-CARDIO-PROTECT  
-**Full Title:** Cardiovascular Risk Factors and Cardioprotective Medications in Cardio-Oncology  
+**Full Title:** Cardiovascular Risk Factors, Guideline Adherence, and Cardiotoxicity in Cardio-Oncology with a Focus on Diabetes and SGLT2 Inhibitors  
 **Principal Investigator:** Dr. Sarah Hugelshofer  
 **Institution:** CHUV - Centre Hospitalier Universitaire Vaudois  
 **Department:** Service de Cardiologie  
-**Requested Amount:** CHF 50,000  
-**Funding Source:** Fondation Emma Muschamp
+**Requested Amount:** CHF 70,000 (CHF 50,000 Fondation Emma Muschamp + CHF 20,000 Boehringer Ingelheim)  
+**Total Project Budget:** CHF 147,000  
+**Funding Sources:** Fondation Emma Muschamp, Boehringer Ingelheim, other competitive sources, CHUV in-kind
 
 ## Contact
 
