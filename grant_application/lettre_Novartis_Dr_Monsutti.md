@@ -1,153 +1,165 @@
-**CENTRE HOSPITALIER UNIVERSITAIRE VAUDOIS (CHUV)**  
-**Service de Cardiologie**  
+**LAUSANNE UNIVERSITY HOSPITAL (CHUV)**  
+**Department of Cardiology**  
 Rue du Bugnon 46  
 1011 Lausanne  
-Suisse
+Switzerland
 
 Dr Sarah Hugelshofer  
-Médecin cardiologue, Consultation de cardio-oncologie  
-Tél.: +41 21 314 11 11  
+Cardiologist, Cardio-Oncology Outpatient Clinic  
+Tel.: +41 21 314 11 11  
 sarah.hugelshofer@chuv.ch
 
 ---
 
-Lausanne, le 17 mars 2026
+Lausanne, 17 March 2026
 
 **Novartis Pharma Schweiz AG**  
-À l'attention du Dr Alice Monsutti  
+For the attention of Dr Alice Monsutti  
 Suurstoffi 14  
 6343 Rotkreuz  
-Suisse
+Switzerland
 
-**Objet : Demande de soutien financier – Recherche en cardio-oncologie : hypercholestérolémie et cardioprotection chez les patients atteints de cancer**
+**Re: Request for financial support to initiate in 2026 a baseline analysis of the prevalence and management of hypercholesterolaemia in cancer patients**
 
-Madame le Docteur Monsutti, Chère Collègue,
+Dear Dr Monsutti, Dear Colleague,
 
-Je me permets de vous adresser cette lettre afin de solliciter le soutien financier de Novartis Pharma Schweiz AG pour un projet de recherche clinique de grande importance : l'étude des liens entre hypercholestérolémie, traitements hypolipémiants et cardiotoxicité chez les patients oncologiques. Ce projet s'inscrit dans le cadre plus large de notre programme **CVRF – CardioProtect** mené au sein de la consultation de cardio-oncologie du Centre Hospitalier Universitaire Vaudois (CHUV).
+I am writing to request the support of Novartis Pharma Schweiz AG to initiate, as of 2026, a first descriptive analysis of the prevalence of hypercholesterolaemia and the quality of its management in cancer patients followed in our cardio-oncology outpatient clinic at the Lausanne University Hospital (CHUV). This work is part of our research programme **CVRF – CardioProtect**, dedicated to cardiovascular risk factors in cardio-oncology.
 
-## 1. Contexte et enjeux cliniques
+The work we wish to undertake in 2026 would constitute a first, essential step — a foundation on which we plan to build a larger and more ambitious prospective study in 2027, for which we will seek additional funding.
 
-L'amélioration des traitements anticancéreux a transformé de nombreux cancers en maladies chroniques. En Suisse, plus de 60 % des patients survivent au-delà de cinq ans après leur diagnostic. Cette avancée remarquable révèle une problématique clinique croissante : la toxicité cardiovasculaire des thérapies anticancéreuses, qui constitue désormais une cause majeure de morbi-mortalité chez les survivants du cancer.
+## 1. Clinical and scientific background
 
-Parmi les facteurs de risque cardiovasculaires (FRCV) les plus fréquents dans cette population, l'**hypercholestérolémie** occupe une place centrale. Selon les données épidémiologiques disponibles, **30 à 40 % des patients oncologiques** présentent une dyslipidémie significative, souvent insuffisamment dépistée et traitée dans le contexte d'une prise en charge oncologique intensive. Or, l'hypercholestérolémie est non seulement un facteur de risque cardiovasculaire indépendant, mais interagit également de façon néfaste avec les mécanismes de cardiotoxicité induite par les anthracyclines, les inhibiteurs de tyrosine kinase et les immunothérapies.
+### 1.1 Cancer and cardiovascular risk: an underestimated connection
 
-Notre consultation de cardio-oncologie suit actuellement **5 à 6 patients par jour, 4 à 5 jours par semaine** (environ 1 000 patients/an depuis janvier 2025). Nous observons quotidiennement les conséquences d'une hypercholestérolémie mal contrôlée chez des patients recevant des traitements potentiellement cardiotoxiques, et constatons le manque de données probantes pour guider nos décisions thérapeutiques.
+Advances in cancer treatment have transformed many malignancies into chronic diseases: in Switzerland, more than 60% of patients survive beyond five years from diagnosis. This progress has uncovered a major clinical challenge: cardiovascular complications related both to oncological treatments and to patients' underlying risk factors. The risk of cardiovascular death is doubled in cancer survivors compared with the general population.
 
-## 2. Potentiel cardioprotecteur de la gestion de l'hypercholestérolémie
+Our cardio-oncology clinic at CHUV currently sees **5 to 6 patients per day** (approximately 1,000 patients per year since January 2025). On a daily basis, we observe that hypercholesterolaemia is common in our patient population, frequently undertreated, and that we lack local data to guide our therapeutic decisions.
 
-La prise en charge de l'hypercholestérolémie dans la population oncologique représente une opportunité thérapeutique majeure et sous-exploitée :
+### 1.2 Cancers that share the same risk factors as cardiovascular disease
 
-**Statines :** Les données disponibles suggèrent des effets pléiotropiques de grande importance en cardio-oncologie. La méta-analyse de Tini et al. (*JACC CardioOncology*, 2022), portant sur 3 818 patients, démontre une **réduction de 44 % du risque de cardiotoxicité** (RR 0.56, IC95% 0.39–0.81). Plusieurs essais randomisés confirment la préservation de la fraction d'éjection ventriculaire gauche (FEVG) sous anthracyclines chez les patients traités par statines. Les mécanismes en jeu – effets anti-inflammatoires, antioxydants, anti-apoptotiques et de protection endothéliale – vont bien au-delà de la simple réduction du LDL-cholestérol.
+A particularly compelling angle of this research relates to **cancers that share the same risk factors as hypercholesterolaemia and metabolic syndrome**: smoking, obesity, physical inactivity, type 2 diabetes, and dyslipidaemia. These cancers represent a substantial proportion of our patient population and constitute the primary target population for this analysis:
 
-**Nouvelles thérapies hypolipémiantes :** Les inhibiteurs de PCSK9, notamment l'**inclisiran** (Leqvio®, Novartis), offrent une réduction puissante et durable du LDL-cholestérol avec une administration bi-annuelle particulièrement adaptée aux patients oncologiques, dont l'adhérence aux traitements oraux peut être compromise par la complexité de leurs régimens thérapeutiques. Aucune donnée clinique robuste n'est actuellement disponible sur l'utilisation de l'inclisiran en contexte oncologique et son effet potentiel sur la cardiotoxicité.
+- **Colorectal cancer**: strongly linked to obesity, physical inactivity, type 2 diabetes, and metabolic syndrome
+- **Post-menopausal breast cancer**: obesity, metabolic syndrome, physical inactivity
+- **Endometrial cancer**: obesity, metabolic syndrome, type 2 diabetes — among the cancers most closely tied to metabolic syndrome
+- **Lung cancer**: smoking as the primary risk factor, also associated with dyslipidaemia and metabolic syndrome
+- **Renal cell carcinoma**: obesity, hypertension, smoking, metabolic syndrome
+- **Hepatocellular carcinoma (HCC)**: obesity, non-alcoholic fatty liver disease (NAFLD/NASH), type 2 diabetes, metabolic syndrome
+- **Pancreatic cancer**: type 2 diabetes, obesity, smoking
+- **Oesophageal adenocarcinoma**: obesity, gastro-oesophageal reflux, metabolic syndrome
+- **Prostate cancer**: growing evidence for a link with obesity and metabolic syndrome
 
-**Gap de connaissances critique :** Malgré ces données prometteuses, il n'existe pas à ce jour d'étude prospective suisse évaluant :
-- La prévalence réelle et la qualité du contrôle de l'hypercholestérolémie dans la population oncologique
-- L'impact de l'atteinte des cibles lipidiques (LDL-C < 1.4 mmol/L selon ESC 2022) sur le risque de cardiotoxicité
-- L'adhérence aux guidelines européennes en matière de gestion des dyslipidémies chez les patients oncologiques
-- Le potentiel cardioprotecteur des thérapies hypolipémiantes modernes en pratique clinique réelle
+In these patients, hypercholesterolaemia frequently forms part of a broader metabolic syndrome picture. The fact that cardiovascular disease and cancer share the same biological determinants creates a unique opportunity: actively treating hypercholesterolaemia in these patients could reduce their cardiovascular risk and potentially influence their oncological prognosis, notably through the pleiotropic effects of statins.
 
-## 3. Notre projet de recherche : volet hypercholestérolémie
+### 1.3 Hypercholesterolaemia in oncology: an undertreated therapeutic target
 
-Dans le cadre du projet CVRF – CardioProtect, nous souhaitons développer un **sous-projet dédié à l'hypercholestérolémie et aux thérapies hypolipémiantes**, comprenant :
+According to international epidemiological data, **30 to 40% of cancer patients** present with significant dyslipidaemia. Yet in the context of intensive oncological management, the treatment of hypercholesterolaemia is often pushed to the background.
 
-### 3.1 Objectifs spécifiques
+Statins — the first-line treatment for hypercholesterolaemia — have moreover demonstrated remarkable cardioprotective effects in cardio-oncology, independent of their lipid-lowering action. The meta-analysis by Tini et al. (*JACC: CardioOncology*, 2022, N = 3,818 patients) shows a **44% reduction in the risk of cardiotoxicity** in statin-treated patients. Several randomised controlled trials confirm preservation of left ventricular ejection fraction under anthracyclines in patients on statin therapy.
 
-**Objectif primaire :**  
-Évaluer la prévalence de l'hypercholestérolémie et la qualité de son contrôle selon les recommandations ESC 2022 dans une cohorte prospective de patients oncologiques suivis en cardio-oncologie au CHUV.
+New lipid-lowering therapies, in particular PCSK9 inhibitors such as **inclisiran** (Leqvio®, Novartis), offer especially interesting prospects in oncology thanks to their twice-yearly administration, which bypasses the adherence challenges of daily oral medications in patients whose treatment regimens are already complex and burdensome.
 
-**Objectifs secondaires :**
-1. Quantifier l'association entre le contrôle du LDL-cholestérol et la survenue d'une cardiotoxicité (définie par les critères ESC 2022) à 12 mois
-2. Évaluer l'adhérence aux traitements hypolipémiants et les modifications thérapeutiques induites par le suivi cardiologique
-3. Analyser les effets cardioprotecteurs des statines en fonction du type et de la dose (analyse de sous-groupe)
-4. Explorer en données exploratoires le profil lipidique et le risque cardiovasculaire des patients sous nouvelles thérapies hypolipémiantes
-5. Identifier les barrières à l'initiation et au maintien d'un traitement hypolipémiant optimal en contexte oncologique
+**To date, no Swiss data** exist on the actual prevalence of hypercholesterolaemia, the quality of its management, or its impact on cardiotoxicity in our oncological population.
 
-### 3.2 Design et population
+## 2. What we aim to do in 2026: a baseline analysis
 
-**Type d'étude :** Cohorte prospective observationnelle, intégrée au registre CVRF – CardioProtect  
-**Population :** 850–900 patients oncologiques consultant en cardio-oncologie au CHUV (2025–2026)  
-**Sous-groupe hypercholestérolémie :** ~250–350 patients (prévalence estimée 30–40 %)  
-**Suivi :** 12 mois  
-**Infrastructure :** Base de données REDCap institutionnelle, sécurisée et conforme aux exigences éthiques suisses (LRH, RGPD)
+### 2.1 Scope of the 2026 phase
 
-### 3.3 Variables spécifiques
+For 2026, our ambition is **modest but foundational**: to perform a **descriptive baseline analysis** using data from our cardio-oncology clinic, to answer the following essential questions:
 
-- **Bilan lipidique complet** à l'inclusion et au suivi (LDL-C, HDL-C, triglycérides, non-HDL-C, Lp(a))
-- **Traitement hypolipémiant** : type, dose, durée, adhérence auto-rapportée
-- **Atteinte des cibles ESC 2022** selon le niveau de risque cardiovasculaire
-- **Calcul du risque cardiovasculaire** (SCORE2/SCORE2-OP, adapté au contexte oncologique)
-- **Marqueurs de cardiotoxicité :** troponine ultrasensible, NT-proBNP, FEVG, strain longitudinal global (GLS)
+1. **What is the prevalence of hypercholesterolaemia** in our cancer population at CHUV, and in particular among patients whose cancer is linked to metabolic risk factors?
+2. **How is hypercholesterolaemia treated** at the time of first consultation in the cardio-oncology clinic? Which medications, at what doses, and with what intensity?
+3. **Are the lipid targets recommended by ESC 2022** (LDL-C < 1.4 mmol/L or < 1.8 mmol/L depending on risk level) being achieved?
+4. **Does follow-up in the cardio-oncology clinic lead to changes** in the management of hypercholesterolaemia (initiation or intensification of treatment)?
+5. If follow-up data are available by the end of 2026, we will explore **whether there is a preliminary association between LDL-cholesterol control and the occurrence of cardiotoxicity**.
 
-## 4. Demande de soutien financier
+### 2.2 Target population
 
-Pour développer ce volet spécifique consacré à l'hypercholestérolémie dans le cadre du projet CVRF – CardioProtect, nous sollicitons **un soutien de CHF 30 000** de la part de Novartis Pharma Schweiz AG pour une durée de 12 mois.
+This analysis will focus on patients attending our cardio-oncology clinic, with particular emphasis on:
+- Patients whose cancer is directly linked to **metabolic and behavioural risk factors** (obesity, physical inactivity, smoking, metabolic syndrome, type 2 diabetes): colorectal, post-menopausal breast, endometrial, lung, kidney, hepatocellular, pancreatic, and oesophageal cancers
+- Patients with **documented hypercholesterolaemia** or an **abnormal lipid profile** at their first consultation
 
-### Utilisation des fonds demandés
+We estimate that we can include several hundred patients in this analysis from data already collected in our REDCap registry since January 2025.
 
-| Poste | Montant |
-|-------|---------|
-| Personnel de recherche (assistant médical 20 % ETP × 12 mois) | CHF 18 000 |
-| Analyses biologiques spécialisées (Lp(a), apolipoprotéines) | CHF 5 000 |
-| Analyse statistique dédiée (sous-groupe dyslipidémie) | CHF 4 000 |
-| Dissémination des résultats (congrès, publication) | CHF 2 500 |
-| Frais divers (coordination, matériel) | CHF 500 |
-| **TOTAL** | **CHF 30 000** |
+### 2.3 What this analysis will deliver
 
-Ce financement permettra de générer des données cliniques de haute qualité sur l'hypercholestérolémie en cardio-oncologie, contribuant ainsi directement à l'amélioration de la prise en charge des patients.
+This first analysis will enable us to:
+- Obtain a **precise, previously unavailable snapshot** of hypercholesterolaemia in cardio-oncology in the Swiss context
+- Identify **gaps in management** and opportunities for improvement
+- Generate **preliminary data** to support funding applications for a larger prospective study in 2027
+- Produce a **first descriptive publication** in a cardio-oncology or clinical lipidology journal
 
-## 5. Pertinence pour Novartis et alignement stratégique
+## 3. The 2027 perspective: a more ambitious prospective study
 
-Ce partenariat de recherche présente un intérêt mutuel évident :
+The 2026 analysis is only a starting point. In 2027, we plan to set up a dedicated **longitudinal prospective study**, including:
+- Structured prospective recruitment of patients with hypercholesterolaemia
+- 12-month follow-up with repeated measurements of lipid profile and cardiotoxicity markers
+- Multivariate analyses to quantify the impact of LDL-C control on cardiovascular events
+- Specific attention to new lipid-lowering therapies (PCSK9 inhibitors, inclisiran) in the oncological context
+- Potentially an interventional component, if the 2026 preliminary data are sufficiently encouraging
 
-**Pour la recherche :** Génération de données en vie réelle (real-world evidence) sur la gestion de l'hypercholestérolémie chez les patients oncologiques, population en croissance rapide et insuffisamment documentée.
+For this 2027 study, we will seek more substantial funding from Novartis and other institutional partners.
 
-**Pour Novartis :** Les données générées contribueront à mieux caractériser le profil de patients susceptibles de bénéficier de thérapies hypolipémiantes innovantes dans un contexte oncologique, un domaine d'application encore peu exploré pour des molécules comme l'inclisiran (Leqvio®). Nos résultats pourraient fournir des éléments pour la conception d'études futures et soutenir les discussions avec les autorités de remboursement concernant l'extension des indications en contexte oncologique.
+## 4. Our request for support
 
-**Pour les patients :** L'amélioration des connaissances sur la gestion de l'hypercholestérolémie en cardio-oncologie bénéficiera directement aux milliers de patients oncologiques suisses à risque cardiovasculaire élevé.
+To start this work in 2026, we are requesting **financial support from Novartis Pharma Schweiz AG**, with the amount to be defined together based on your possibilities and priorities for the current year.
 
-**Visibilité :** Les résultats feront l'objet de publications dans des revues à fort impact (*JACC: CardioOncology*, *European Heart Journal*, *Atherosclerosis*) et de présentations aux congrès nationaux et internationaux (ESC, ESMO, Swiss Cardiology), avec reconnaissance du soutien de Novartis Pharma Schweiz AG.
+Depending on the level of support provided, this funding could cover:
+- **Part-time assistance from a research associate** responsible for extracting and analysing data from the REDCap registry
+- **Statistical support** for the descriptive analyses
+- If the budget allows, **additional biological analyses** (Lp(a), detailed lipid profiling)
+- **Preparation of a scientific communication** (poster or oral presentation) for a 2026 congress (Swiss Society of Cardiology Annual Meeting, ESC Congress)
 
-## 6. Infrastructure et garanties scientifiques
+We are fully aware that this 2026 request is a seed-funding request. We commit to reporting back on the results obtained and to involving Novartis in preparing the 2027 study, in which you could play a more significant partnership role.
 
-Notre équipe dispose de l'ensemble des ressources nécessaires pour garantir la qualité et la rigueur de ce projet :
+## 5. Why this partnership is relevant for Novartis
 
-- **Consultation de cardio-oncologie dédiée** : ~1 000 patients/an, infrastructure unique en Suisse romande
-- **Base de données REDCap** institutionnelle, conforme aux exigences éthiques
-- **Support statistique senior** : statisticien expert en épidémiologie cardiovasculaire de l'Unité de Recherche Clinique du CHUV
-- **Approbation éthique** : projet soumis et approuvé par la Commission Cantonale d'Éthique de la Recherche sur l'Être Humain (CER-VD)
-- **Supervision académique** : Prof. Olivier Müller, Chef du Service de Cardiologie, CHUV, Professeur Ordinaire UNIL
-- **Réseau multidisciplinaire** : collaboration étroite avec les services d'oncologie médicale et de radiothérapie du CHUV
+**Real-world evidence:** This analysis will generate real-world data on the management of hypercholesterolaemia in a rapidly growing and poorly documented oncological population in Switzerland.
+
+**Relevance for Leqvio® (inclisiran):** Data on adherence to oral medications in cancer patients, and conversely on the value of a twice-yearly injectable therapy, provide valuable information to understand unmet needs in this population — a context where inclisiran's dosing schedule is particularly well suited.
+
+**Strategic positioning:** Cardio-oncology is a rapidly expanding field. Being an early partner in a foundational study in this area at CHUV — the reference centre in French-speaking Switzerland — represents meaningful scientific visibility.
+
+**Visibility:** All communications and publications arising from this work will acknowledge the support of Novartis Pharma Schweiz AG.
+
+## 6. Our existing infrastructure
+
+Our team already has all the infrastructure needed to conduct this work:
+
+- **Dedicated cardio-oncology outpatient clinic** (~1,000 patients/year), unique in French-speaking Switzerland
+- **REDCap registry** operational since January 2025, with lipid data collected systematically at each visit
+- **Ethics approval (CER-VD)** already in place for the CVRF – CardioProtect registry
+- **Statistical support**: biostatistician from the CHUV Clinical Research Unit
+- **Academic supervision**: Prof. Olivier Müller, Head of the Department of Cardiology, CHUV, Full Professor, University of Lausanne
 
 ## 7. Conclusion
 
-La gestion de l'hypercholestérolémie chez les patients oncologiques représente un défi clinique majeur et une opportunité thérapeutique encore insuffisamment exploitée. Notre projet apportera des données prospectives robustes, ancrées dans la pratique clinique réelle, avec un potentiel d'impact direct sur la prise en charge des patients et sur les recommandations internationales en cardio-oncologie.
+My aim in 2026 is to carry out a first descriptive piece of work — modest in its immediate scope, but essential as a foundation — on the prevalence and management of hypercholesterolaemia in cancer patients, with a particular focus on cancers sharing the risk factors of metabolic syndrome. This work would pave the way for a larger prospective study in 2027, for which I will once again turn to Novartis for more substantial support.
 
-Je serais très heureuse de vous présenter ce projet en détail lors d'une rencontre et reste à votre disposition pour toute question complémentaire. Je vous remercie chaleureusement de l'attention que vous porterez à cette demande.
+I would be very happy to present this project to you in person at a time of your convenience, and I remain available for any preliminary discussion by phone or video call.
 
-Dans l'espoir d'une réponse favorable et d'une collaboration fructueuse, je vous prie d'agréer, Madame le Docteur Monsutti, l'expression de mes sentiments les plus distingués.
+Hoping for a favourable response and a lasting collaboration, I remain,
+
+Yours sincerely,
 
 ---
 
 **Dr Sarah Hugelshofer**  
-Médecin cardiologue  
-Consultation de cardio-oncologie  
-Service de Cardiologie  
-Centre Hospitalier Universitaire Vaudois (CHUV)  
+Cardiologist  
+Cardio-Oncology Outpatient Clinic  
+Department of Cardiology  
+Lausanne University Hospital (CHUV)  
 Rue du Bugnon 46  
-1011 Lausanne, Suisse
+1011 Lausanne, Switzerland
 
-Tél. : +41 21 314 11 11  
-E-mail : sarah.hugelshofer@chuv.ch
-
----
-
-**Pièces jointes :**
-1. Résumé du projet CVRF – CardioProtect (`resume_projet.md`)
-2. Budget détaillé du projet principal (`budget_detaille.md`)
-3. Lettre de soutien du Prof. Olivier Müller, Chef du Service de Cardiologie, CHUV
-4. Références épidémiologiques sélectionnées (`references_epidemiologie.md`)
+Tel.: +41 21 314 11 11  
+E-mail: sarah.hugelshofer@chuv.ch
 
 ---
 
-*Cette lettre doit être imprimée sur papier à en-tête officiel du CHUV pour envoi.*
+**Enclosure:**  
+Project summary CVRF-HYPERCHOL – 2026 baseline analysis and 2027 perspectives (`resume_projet_hyperchol.md`)
+
+---
+
+*This letter should be printed on official CHUV letterhead before sending.*
