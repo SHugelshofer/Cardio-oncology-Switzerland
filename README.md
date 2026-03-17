@@ -39,11 +39,16 @@ Cardio-oncology-Switzerland/
 ├── 📄 VISUAL_GUIDE.md                ← Visual guide for beginners
 ├── 📄 CONVERTING_TO_WORD.md          ← Detailed conversion guide
 │
-├── 🐍 convert_to_word.py             ← Conversion script
+├── 🐍 convert_to_word.py             ← Convert any .md to .docx
+├── 🐍 generate_protocol_word.py      ← Generate CER-VD protocol .docx
+├── 📄 251126_protokolltemplate_...docx ← swissethics template (reference)
 │
 └── 📁 grant_application/             ← All grant materials
-    ├── 📝 resume_projet.md/.docx            - Project summary
+    ├── ⚖️  protocole_CER-VD_CVRF-CardioProtect.md/.docx  ← CER-VD ETHICS PROTOCOL
+    ├── 📝 resume_projet.md/.docx            - Project summary (CVRF-CardioProtect)
+    ├── 📝 resume_projet_hyperchol.md/.docx  - Project summary (CVRF-HYPERCHOL sub-study)
     ├── 💰 budget_detaille.md/.docx          - Budget breakdown
+    ├── 💰 budget_adapte_50k_12mois.md/.docx - Adapted 12-month budget (CHF 50k)
     ├── ✉️  lettre_soutien_Prof_Muller.md/.docx - Support letter (Fondation Emma Muschamp)
     ├── ✉️  lettre_Novartis_Dr_Monsutti.md/.docx - Letter to Novartis (Dr Alice Monsutti)
     ├── 📚 references_epidemiologie.md/.docx - References
@@ -55,7 +60,13 @@ Cardio-oncology-Switzerland/
 
 ## 🎯 Common Tasks
 
-### Create all Word documents
+### Generate the CER-VD ethics protocol (Word document)
+```bash
+python3 generate_protocol_word.py
+```
+→ Creates `grant_application/protocole_CER-VD_CVRF-CardioProtect.docx`
+
+### Create all other Word documents (from Markdown)
 ```bash
 python3 convert_to_word.py --all
 ```
@@ -102,11 +113,14 @@ python3 convert_to_word.py grant_application/resume_projet.md
 ### Q: How do I create the Word documents?
 **A:** Run: `python3 convert_to_word.py --all` (See [QUICK_START.md](QUICK_START.md))
 
+### Q: How do I generate the CER-VD ethics protocol?
+**A:** Run: `python3 generate_protocol_word.py` — this creates the fully formatted BASEC-ready Word document.
+
 ### Q: Can I edit the Word documents?
 **A:** Yes! Edit them in Word, LibreOffice, or Google Docs as needed.
 
-### Q: Which format should I submit?
-**A:** Submit the **Word documents** (.docx) to Fondation Emma Muschamp.
+### Q: Which format should I submit to CER-VD/BASEC?
+**A:** Submit the **CER-VD protocol Word document** (`.docx`) converted to a signed **OCR PDF**, uploaded via the BASEC portal at https://submissions.swissethics.ch/en/
 
 ---
 
@@ -114,12 +128,15 @@ python3 convert_to_word.py grant_application/resume_projet.md
 
 **Funding:** Fondation Emma Muschamp  
 **Amount Requested:** CHF 50,000  
-**Total Project Value:** CHF 127,000 (including CHF 20,000 secured + CHF 57,000 in-kind)
+**Total Phase 1 Value:** CHF 95,000 (CHF 50,000 Muschamp + CHF 20,000 secured + CHF 25,000 CHUV in-kind)
 
 **Key Documents:**
+- **CER-VD Ethics Protocol** (CVRF – CardioProtect + CVRF-HYPERCHOL sub-study) ← **NEW**
 - Project summary (CVRF – CardioProtect)
-- Detailed budget breakdown
+- Project summary (CVRF-HYPERCHOL sub-study)
+- Adapted 12-month budget (CHF 50,000)
 - Support letter from Prof. Olivier Müller
+- Letter to Novartis (Dr Alice Monsutti)
 - Scientific references and demographics
 - Statistics source documentation
 
@@ -137,8 +154,17 @@ python3 convert_to_word.py grant_application/resume_projet.md
 
 ## ✅ Submission Checklist
 
+### CER-VD / BASEC Submission
+- [ ] Generate CER-VD protocol (`python3 generate_protocol_word.py`)
+- [ ] Review protocol document (all 16 sections)
+- [ ] Print protocol, sign (Dr Hugelshofer + Prof. Müller), scan as OCR PDF
+- [ ] Register study in ClinicalTrials.gov or ISRCTN
+- [ ] Prepare CHUV General Consent form as annex
+- [ ] Submit via BASEC portal (https://submissions.swissethics.ch/en/)
+
+### Fondation Emma Muschamp Submission
 - [ ] Create Word documents (`python3 convert_to_word.py --all`)
-- [ ] Review all 6 documents
+- [ ] Review all grant documents (project summaries, budget, letters)
 - [ ] Print support letter on CHUV letterhead
 - [ ] Get Prof. Müller's signature
 - [ ] Package documents for submission
